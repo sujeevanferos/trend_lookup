@@ -4,7 +4,9 @@ __pycache__
 __init__.py
 opportunity_model/
 categorization_model/
-jsons/*.json
 hourly_history.jsonl
 live_output.json
 tree.txt
+government_news.json
+sri_lanka_news.json
+srilanka_weather.json
