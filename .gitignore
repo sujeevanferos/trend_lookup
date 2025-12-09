@@ -2,8 +2,8 @@
 tests/
 __pycache__
 __init__.py
-*csv
-*.json
 opportunity_model/
 categorization_model/
 jsons/
+hourly_history.jsonl
+live_output.json
