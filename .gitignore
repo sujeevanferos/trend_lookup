@@ -4,7 +4,7 @@ __pycache__
 __init__.py
 opportunity_model/
 categorization_model/
-jsons/
+jsons/*.json
 hourly_history.jsonl
 live_output.json
 tree.txt
