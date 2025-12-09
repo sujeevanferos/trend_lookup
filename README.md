@@ -1,4 +1,4 @@
-# evolveXr2 – Intelligent News Categorization & Industry Impact Engine
+# Intelligent News Categorization & Industry Impact Engine
 
 This project processes real‑time Sri Lankan news, government updates, and weather data, categorizes each event, assigns an economic opportunity score, and converts the results into industry‑level impact insights.
 
