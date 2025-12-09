@@ -1,0 +1,140 @@
+.
+├── auto_label.py
+├── categorization_engine.py
+├── categorization_model
+│   ├── checkpoint-1000
+│   │   ├── config.json
+│   │   ├── model.safetensors
+│   │   ├── optimizer.pt
+│   │   ├── rng_state.pth
+│   │   ├── scheduler.pt
+│   │   ├── special_tokens_map.json
+│   │   ├── tokenizer_config.json
+│   │   ├── tokenizer.json
+│   │   ├── trainer_state.json
+│   │   ├── training_args.bin
+│   │   └── vocab.txt
+│   ├── checkpoint-1500
+│   │   ├── config.json
+│   │   ├── model.safetensors
+│   │   ├── optimizer.pt
+│   │   ├── rng_state.pth
+│   │   ├── scheduler.pt
+│   │   ├── special_tokens_map.json
+│   │   ├── tokenizer_config.json
+│   │   ├── tokenizer.json
+│   │   ├── trainer_state.json
+│   │   ├── training_args.bin
+│   │   └── vocab.txt
+│   ├── checkpoint-2000
+│   │   ├── config.json
+│   │   ├── model.safetensors
+│   │   ├── optimizer.pt
+│   │   ├── rng_state.pth
+│   │   ├── scheduler.pt
+│   │   ├── special_tokens_map.json
+│   │   ├── tokenizer_config.json
+│   │   ├── tokenizer.json
+│   │   ├── trainer_state.json
+│   │   ├── training_args.bin
+│   │   └── vocab.txt
+│   ├── checkpoint-2500
+│   │   ├── config.json
+│   │   ├── model.safetensors
+│   │   ├── optimizer.pt
+│   │   ├── rng_state.pth
+│   │   ├── scheduler.pt
+│   │   ├── special_tokens_map.json
+│   │   ├── tokenizer_config.json
+│   │   ├── tokenizer.json
+│   │   ├── trainer_state.json
+│   │   ├── training_args.bin
+│   │   └── vocab.txt
+│   ├── checkpoint-3000
+│   │   ├── config.json
+│   │   ├── model.safetensors
+│   │   ├── optimizer.pt
+│   │   ├── rng_state.pth
+│   │   ├── scheduler.pt
+│   │   ├── special_tokens_map.json
+│   │   ├── tokenizer_config.json
+│   │   ├── tokenizer.json
+│   │   ├── trainer_state.json
+│   │   ├── training_args.bin
+│   │   └── vocab.txt
+│   ├── checkpoint-3500
+│   │   ├── config.json
+│   │   ├── model.safetensors
+│   │   ├── optimizer.pt
+│   │   ├── rng_state.pth
+│   │   ├── scheduler.pt
+│   │   ├── special_tokens_map.json
+│   │   ├── tokenizer_config.json
+│   │   ├── tokenizer.json
+│   │   ├── trainer_state.json
+│   │   ├── training_args.bin
+│   │   └── vocab.txt
+│   ├── checkpoint-3824
+│   │   ├── config.json
+│   │   ├── model.safetensors
+│   │   ├── optimizer.pt
+│   │   ├── rng_state.pth
+│   │   ├── scheduler.pt
+│   │   ├── special_tokens_map.json
+│   │   ├── tokenizer_config.json
+│   │   ├── tokenizer.json
+│   │   ├── trainer_state.json
+│   │   ├── training_args.bin
+│   │   └── vocab.txt
+│   ├── checkpoint-500
+│   │   ├── config.json
+│   │   ├── model.safetensors
+│   │   ├── optimizer.pt
+│   │   ├── rng_state.pth
+│   │   ├── scheduler.pt
+│   │   ├── special_tokens_map.json
+│   │   ├── tokenizer_config.json
+│   │   ├── tokenizer.json
+│   │   ├── trainer_state.json
+│   │   ├── training_args.bin
+│   │   └── vocab.txt
+│   ├── config.json
+│   ├── model.safetensors
+│   ├── special_tokens_map.json
+│   ├── tokenizer_config.json
+│   ├── tokenizer.json
+│   ├── training_args.bin
+│   └── vocab.txt
+├── generate_opportunity_dataset.py
+├── opportunity_engine.py
+├── opportunity_model
+│   ├── checkpoint-284
+│   │   ├── config.json
+│   │   ├── model.safetensors
+│   │   ├── optimizer.pt
+│   │   ├── rng_state.pth
+│   │   ├── scheduler.pt
+│   │   ├── special_tokens_map.json
+│   │   ├── tokenizer_config.json
+│   │   ├── tokenizer.json
+│   │   ├── trainer_state.json
+│   │   ├── training_args.bin
+│   │   └── vocab.txt
+│   ├── config.json
+│   ├── model.safetensors
+│   ├── special_tokens_map.json
+│   ├── tokenizer_config.json
+│   ├── tokenizer.json
+│   ├── training_args.bin
+│   └── vocab.txt
+├── opportunity_training.csv
+├── __pycache__
+│   └── categorization_engine.cpython-313.pyc
+├── test_cat_model.py
+├── test_opp_model.py
+├── train_categorization_engine.py
+├── training_data.csv
+├── train_opportunity_model.py
+└── tree.txt
+
+13 directories, 125 files

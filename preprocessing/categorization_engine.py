@@ -191,6 +191,6 @@ def categorize_json_file(path):
 # Demo
 # ---------------------------------------------------------------------
 if __name__ == "__main__":
-    sample = "The temperature is  getting high!"
+    sample = "There will be no tax from tomorrow"
     print("Test:", predict(sample))
 

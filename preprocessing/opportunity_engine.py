@@ -131,6 +131,6 @@ def analyze_json(path):
 # DEMO (run directly)
 # ---------------------------------------------------------
 if __name__ == "__main__":
-    test_text = "It will rain from tomorrow."
+    test_text = "It will be no tax from tomorrow."
     print(analyze(test_text))
 

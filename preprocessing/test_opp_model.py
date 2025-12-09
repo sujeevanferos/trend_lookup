@@ -27,7 +27,7 @@ def predict_score(text):
 # -----------------------
 # Test your model
 # -----------------------
-sample = "Tourism arrivals have increased significantly this month"
+sample = "There will be a tax free day in next week"
 print("Input:", sample)
 print("Predicted Opportunity Score:", predict_score(sample))
 

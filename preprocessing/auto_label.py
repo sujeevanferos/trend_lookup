@@ -1,3 +1,6 @@
+"""
+This script will label the news as politics, international, weather, economy, etc...
+"""
 import json
 import csv
 import re
