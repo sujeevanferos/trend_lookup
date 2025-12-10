@@ -1,3 +1,8 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
 # Python
 __pycache__/
 *.py[cod]
@@ -8,40 +13,20 @@ __pycache__/
 venv/
 ENV/
 env/
-*.egg-info/
-.pytest_cache/
-.tox/
 
-# Git
-.git/
-.gitignore
-.gitattributes
-.git-backup-*/
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
 
-# Data files (these should be mounted as volumes)
-jsons/*.json
-output/*.json
-output/
-history/*.jsonl
-history/
-*.log
-data/
-
-# IDEs
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
 .DS_Store
-Thumbs.db
-
-# Node.js (UI will be built separately)
-node_modules/
-ui/node_modules/
-ui/dist/
-ui/build/
-ui/.next/
-*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

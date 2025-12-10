@@ -34,101 +34,130 @@ Early warnings or emerging positive trends inferred from aggregated, real-time d
 ### Prerequisites
 - Python 3.8+
 - Node.js 16+ (for UI)
-- Virtual environment (recommended)
+- Git
 
 ### Installation
 
-1. **Clone and setup Python environment**
+1. **Clone the repository**
 ```bash
 git clone <repository-url>
 cd evolveXr2
+```
+
+2. **Setup Python environment**
+```bash
 python3 -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-2. **Install UI dependencies**
+3. **Setup UI**
 ```bash
 cd ui
 npm install
+npm run build  # Build production bundle
 cd ..
 ```
 
-### Option A: Docker Deployment (Recommended for Production)
-
-**Using Docker Compose (easiest):**
+4. **Download ML models** (Optional - will auto-download on first run)
 ```bash
-# Build and start all services
+python3 download_models.py
+```
+
+---
+
+## 🎯 Running the Application
+
+### **Option A: Manual Mode (Recommended for Development)**
+
+**Complete workflow:**
+
+```bash
+# 1. Activate virtual environment
+source .venv/bin/activate
+
+# 2. Collect fresh data (~30 seconds)
+python3 collect_all.py
+
+# 3. Process data with ML pipeline (~5 minutes first run, then cached)
+python3 pipeline.py
+
+# 4. Start the backend server
+python3 server.py
+```
+
+**Access the application:**
+- UI: http://localhost:8000
+- API: http://localhost:8000/output/
+
+**For UI development (hot reload):**
+```bash
+# In a separate terminal
+cd ui
+npm run dev
+# Access at: http://localhost:5173
+```
+
+**⚡ Performance tip:** After the first run, use `quick_fix_scores.py` instead of full pipeline:
+```bash
+python3 collect_all.py          # Collect new data
+python3 quick_fix_scores.py     # Fast score update (3 min vs 50 min)
+```
+
+---
+
+### **Option B: Docker Mode (For Production/Submission)**
+
+> **Note**: Docker setup takes longer to build (~10-15 min) due to building UI and installing dependencies
+
+**Prerequisites:**
+- Docker & Docker Compose installed
+- UI must be built first: `cd ui && npm run build && cd ..`
+
+**Using Docker Compose:**
+```bash
+# Build and start
+docker-compose up --build
+
+# Or run in background
 docker-compose up -d
 
 # View logs
 docker-compose logs -f
 
-# Stop services
+# Stop
 docker-compose down
 ```
 
-**Using Docker directly:**
-```bash
-# Build image
-docker build -t evolvex .
-
-# Run container
-docker run -d \
-  -p 8000:8000 \
-  -v $(pwd)/jsons:/app/jsons \
-  -v $(pwd)/output:/app/output \
-  -v $(pwd)/history:/app/history \
-  --name evolvex-app \
-  evolvex
-
-# View logs
-docker logs -f evolvex-app
-
-# Stop container
-docker stop evolvex-app
-```
+**Access the application:**
+- UI: http://localhost:8000
+- API: http://localhost:8000/output/
 
 **What Docker does automatically:**
-1. ✅ Installs all Python dependencies
-2. ✅ Builds the React UI
-3. ✅ Starts the API server (port 8000)
+1. ✅ Installs Python dependencies
+2. ✅ Builds React UI (if not pre-built)
+3. ✅ Starts API server on port 8000
 4. ✅ Runs initial data collection
 5. ✅ Processes data with ML pipeline
-6. ✅ Serves all JSON outputs
-
-**Access the API:**
-- API Server: http://localhost:8000
-- Live Output: http://localhost:8000/output/live_output.json
-- National Activity: http://localhost:8000/output/national_activity_indicators.json
-- Operational Environment: http://localhost:8000/output/operational_environment_indicators.json
-- Risk & Opportunity: http://localhost:8000/output/risk_opportunity_insights.json
 
 **Optional: Enable hourly auto-updates**
 ```bash
 # The docker-compose.yml includes an optional cron service
-# Uncomment the evolvex-cron service to enable hourly pipeline runs
 docker-compose up -d evolvex-cron
 ```
 
-### Option B: Manual Setup (Development)
+---
 
-**Complete Workflow (Recommended):**
-```bash
-# 1. Collect data from all sources
-python3 collect_all.py
+## 📋 Quick Commands Summary
 
-# 2. Process with ML models and generate all outputs
-python3 pipeline.py
-
-# 3. Start the API server (separate terminal)
-python3 server.py
-
-# 4. Start the UI (separate terminal)
-cd ui && npm run dev
-```
-
-**Access the dashboard**: http://localhost:5173
+| Task | Manual Mode | Docker Mode |
+|------|-------------|-------------|
+| **Install** | `pip install -r requirements.txt` | `docker-compose build` |
+| **Start** | `python3 server.py` | `docker-compose up` |
+| **Update data** | `python3 collect_all.py && python3 quick_fix_scores.py` | Automatic (cron) |
+| **View logs** | Terminal output | `docker-compose logs -f` |
+| **Stop** | `Ctrl+C` | `docker-compose down` |
+| **Access** | http://localhost:8000 | http://localhost:8000 |
 
 ## 📁 Project Structure
 
