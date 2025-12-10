@@ -67,41 +67,8 @@ VOLUME ["/app/jsons", "/app/output", "/app/history"]
 # Expose ports
 EXPOSE 8000
 
-# Create optimized startup script with model downloading
-RUN echo '#!/bin/bash\n\
-    set -e\n\
-    echo "Starting EvolveX services..."\n\
-    \n\
-    # Download models if not present (first run)\n\
-    if [ ! -f "/app/preprocessing/local_model/config.json" ]; then\n\
-    echo "📦 Models not found. Downloading (first run only)..."\n\
-    python3 download_models.py || echo "⚠️  Warning: Model download failed"\n\
-    fi\n\
-    \n\
-    # Start API server in background\n\
-    python3 server.py &\n\
-    SERVER_PID=$!\n\
-    \n\
-    # Wait for server to start\n\
-    sleep 3\n\
-    \n\
-    # Run initial data collection and processing\n\
-    echo "Running initial data collection..."\n\
-    python3 collect_all.py || echo "Warning: Data collection had issues"\n\
-    \n\
-    echo "Processing data with ML pipeline..."\n\
-    python3 pipeline.py || echo "Warning: Pipeline had issues"\n\
-    \n\
-    echo ""\n\
-    echo "========================================"\n\
-    echo "EvolveX is ready!"\n\
-    echo "API Server: http://localhost:8000"\n\
-    echo "========================================"\n\
-    echo ""\n\
-    \n\
-    # Keep container running and show server logs\n\
-    wait $SERVER_PID\n\
-    ' > /app/start.sh && chmod +x /app/start.sh
+# Create optimized startup script - server starts first!
+RUN echo '#!/bin/bash\\n\\\nset -e\\n\\\necho \"Starting EvolveX services...\"\\n\\\n\\n\\\n# Start API server immediately\\n\\\necho \"🚀 Starting web server on port 8000...\"\\n\\\npython3 server.py \u0026\\n\\\nSERVER_PID=$!\\n\\\necho \"✓ Server running (PID: $SERVER_PID)\"\\n\\\n\\n\\\n# Download models in background if needed\\n\\\nif [ ! -f \"/app/preprocessing/local_model/config.json\" ]; then\\n\\\n  echo \"📦 Downloading models in background...\"\\n\\\n  (python3 download_models.py || echo \"⚠️  Warning: Model download failed\") \u0026\\n\\\nelse\\n\\\n  echo \"✓ Models already present\"\\n\\\nfi\\n\\\n\\n\\\n# Wait a moment for server to initialize\\n\\\nsleep 2\\n\\\n\\n\\\n# Run initial data collection in background\\n\\\necho \"📊 Running data collection...\"\\n\\\n(python3 collect_all.py \u0026\u0026 python3 pipeline.py || echo \"⚠️  Pipeline issues\") \u0026\\n\\\n\\n\\\necho \"\"\\n\\\necho \"========================================\"\\n\\\necho \"✅ EvolveX is ready!\"\\n\\\necho \"🌐 UI: http://localhost:8000/\"\\n\\\necho \"📡 API: http://localhost:8000/output/\"\\n\\\necho \"========================================\"\\n\\\necho \"\"\\n\\\necho \"ℹ️  Data collection and model download running in background...\"\\n\\\n\\n\\\n# Keep container running\\n\\\nwait $SERVER_PID\\n\\\n' \u003e /app/start.sh \u0026\u0026 chmod +x /app/start.sh
 
 # Health check
 HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
