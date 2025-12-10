@@ -1,13 +1,107 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+.virtualenv/
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
 *key.py
+!*.example.py
+keys.py
+
+# Testing
 tests/
-__pycache__
-__init__.py
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Machine Learning Models
 opportunity_model/
 categorization_model/
+*.pkl
+*.h5
+*.pt
+*.pth
+*.onnx
+models/
+
+# Data and Output Files
 hourly_history.jsonl
 live_output.json
 tree.txt
 government_news.json
 sri_lanka_news.json
 srilanka_weather.json
-.venv/
+output/
+*.jsonl
+data/
+
+# CSV files - ignore all except training data
+*.csv
+!preprocessing/*training*.csv
+!preprocessing/training_data.csv
+
+# Node.js / UI
+ui/node_modules/
+ui/dist/
+ui/build/
+ui/.next/
+ui/out/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Misc
+*.swp
+*.swo
+*~
+.cache/
+.temp/
+tmp/

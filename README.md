@@ -382,14 +382,13 @@ docker-compose logs -f evolvex-cron
 docker-compose exec evolvex python3 run_hourly.py
 ```
 
-## 📄 License
-
-[Add your license here]
 
 ## 👥 Contributors
 
-[Add contributors]
+F.R.Sujeevan
+L.Sharmilan
+J.J.K.Pooja
+S.Juththis
 
----
 
 **Built for IEEE Competition** - Real-time Signal Intelligence for Sri Lanka
