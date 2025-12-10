@@ -54,6 +54,7 @@ categorization_model/
 *.pth
 *.onnx
 models/
+preprocessing/local_model/
 
 # Data and Output Files
 hourly_history.jsonl

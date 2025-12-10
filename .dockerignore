@@ -32,8 +32,8 @@ ui/build/
 npm-debug.log*
 
 # Models (optional - uncomment if models are large)
-# preprocessing/local_model/
-# preprocessing/opp_reg_model/
+preprocessing/local_model/
+preprocessing/opp_reg_model/
 
 # Temporary
 *.tmp
