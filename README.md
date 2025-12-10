@@ -239,13 +239,100 @@ evolveXr2/
 
 ## ⚡ Performance Optimization
 
-**Caching System:**
-- MD5-based deduplication prevents redundant ML inference
-- First run: ~6 minutes (processes all items)
-- Subsequent runs: ~9 seconds (skips cached items)
-- **97% CPU reduction** on repeat runs
+### Classification Cache System
+The pipeline now includes intelligent caching for zero-shot classification results:
 
-Cache file: `output/processed_cache.json`
+```bash
+# First run: Builds cache (50-60 minutes)
+python3 pipeline.py
+
+# Subsequent runs: Uses cache (~5 minutes)
+python3 pipeline.py
+```
+
+**How it works:**
+- Caches thematic categories and industry classifications by text hash
+- Stores results in `output/classification_cache.json`
+- Shows cache hit/miss statistics during processing
+- **10-20x faster** on re-runs with same data
+
+**Quick Score Updates:**
+```bash
+python3 collect_all.py          # Collect new data
+python3 quick_fix_scores.py     # Fast score update (3 min vs 50 min)
+```
+
+This script:
+- ✅ Uses existing classifications
+- ✅ Only recalculates opportunity scores  
+- ✅ Completes in 2-3 minutes
+- ✅ Perfect for regular updates
+
+### Why the Pipeline is Slow
+
+The bottleneck is **zero-shot classification**:
+- Opportunity scoring: **0.01s/article** (fast)
+- Thematic classification: **2-3s/article** (slow)
+- Industry classification: **2-3s/article** (slow)
+
+With 580+ articles:
+- Total: ~5-6 seconds × 580 = **50-60 minutes**
+- After caching: **~5 minutes** ⚡
+
+## 🐳 Docker Troubleshooting
+
+### Before Docker Build
+**Important:** Build the UI first!
+```bash
+cd ui && npm run build && cd ..
+```
+
+### Common Issues
+
+**"Connection refused" when accessing UI**  
+✓ Check container is running: `docker ps`  
+✓ Verify port 8000 is not in use: `lsof -i:8000`  
+✓ Wait 30-60s for initial data collection
+
+**Build takes forever**  
+➜ Check build context size (should be \u003c100MB)  
+➜ `.dockerignore` excludes large model files  
+➜ First build downloads dependencies (~10-15 min)
+
+**Port 8000 already in use**  
+```bash
+# Stop local server first
+pkill -f "python3 server.py"
+
+# Or change Docker port in docker-compose.yml:
+# ports: - "8080:8000"
+```
+
+**UI not loading**  
+➜ Ensure `ui/dist/` exists before Docker build  
+➜ Run `cd ui && npm run build && cd ..`
+
+**Container exits immediately**  
+```bash
+# Check logs for errors
+docker logs evolvex-app
+
+# Rebuild without cache
+docker-compose build --no-cache
+```
+
+## ⏱️ Automated Runs
+
+**Hourly Cron Job:**
+```bash
+# Add to crontab
+0 * * * * cd /path/to/evolveXr2 && /path/to/.venv/bin/python3 run_hourly.py
+```
+
+Or use the provided script:
+```bash
+python3 run_hourly.py
+```
 
 ## 🤖 ML Models
 
