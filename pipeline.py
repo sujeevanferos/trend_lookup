@@ -47,6 +47,7 @@ HISTORY_DIR.mkdir(parents=True, exist_ok=True)
 LIVE_OUTPUT = OUTPUT_DIR / "live_output.json"
 HISTORY_FILE = HISTORY_DIR / "hourly_history.jsonl"
 CACHE_FILE = OUTPUT_DIR / "processed_cache.json"
+CLASSIFICATION_CACHE_FILE = OUTPUT_DIR / "classification_cache.json"
 
 # Cache helpers
 def load_cache() -> Set[str]:
@@ -67,6 +68,27 @@ def save_cache(cache: Set[str]):
             json.dump({'processed': list(cache)}, f)
     except Exception as e:
         print(f"[WARN] Failed to save cache: {e}")
+
+def load_classification_cache() -> Dict[str, Dict]:
+    """Load cached zero-shot classification results."""
+    if not CLASSIFICATION_CACHE_FILE.exists():
+        return {}
+    try:
+        with open(CLASSIFICATION_CACHE_FILE, 'r') as f:
+            cache = json.load(f)
+            print(f"[CACHE] Loaded {len(cache)} cached classifications")
+            return cache
+    except Exception as e:
+        print(f"[WARN] Failed to load classification cache: {e}")
+        return {}
+
+def save_classification_cache(cache: Dict[str, Dict]):
+    """Save classification cache to disk."""
+    try:
+        with open(CLASSIFICATION_CACHE_FILE, 'w') as f:
+            json.dump(cache, f, indent=2)
+    except Exception as e:
+        print(f"[WARN] Failed to save classification cache: {e}")
 
 def get_text_hash(text: str) -> str:
     """Generate a hash for a news text to identify duplicates."""
@@ -241,15 +263,17 @@ zero_shot_engine = None
 
 def try_load_preproc_engines():
     global cat_engine, opp_engine
-    try:
-        from preprocessing.categorization_engine import load as load_cat
-        cat_engine = load_cat()
-    except Exception:
-        cat_engine = None
+    # Categorization engine not needed - using zero-shot instead
+    cat_engine = None
+    
     try:
         from preprocessing.opportunity_engine import load as load_opp
         opp_engine = load_opp()
-    except Exception:
+        print("[INFO] Opportunity engine loaded successfully")
+    except Exception as e:
+        print(f"[WARN] Opportunity engine failed to load: {e}")
+        import traceback
+        traceback.print_exc()
         opp_engine = None
 
 # ---- fallback wrappers using transformers (if user didn't expose load functions) ----
@@ -339,6 +363,11 @@ def process_news_list(raw_list: List[Any], source_name: str, cache: Set[str]) ->
     if not isinstance(raw_list, list):
         return events
     
+    # Load classification cache for zero-shot results
+    classification_cache = load_classification_cache()
+    classification_hits = 0
+    classification_misses = 0
+    
     cache_hits = 0
     new_items = 0
     
@@ -364,17 +393,41 @@ def process_news_list(raw_list: List[Any], source_name: str, cache: Set[str]) ->
         # 1. Global Opportunity Score
         opp_score, opp_conf = opp_engine.predict(text)
 
-        # 2. Thematic Category (Tier 2)
-        # Single label classification
-        thematic_res = zero_shot_engine(text, THEMATIC_CATEGORIES, multi_label=False)
-        thematic_category = thematic_res["labels"][0]
+        # 2. Thematic Category & Industry Classification (with cache)
+        # Check classification cache first
+        if text_hash in classification_cache:
+            # Use cached classification results (FAST!)
+            cached = classification_cache[text_hash]
+            thematic_category = cached['thematic_category']
+            industry_labels = cached['industry_labels']
+            industry_scores = cached['industry_scores']
+            classification_hits += 1
+        else:
+            # Run expensive zero-shot classification (SLOW)
+            # Progress indicator
+            if classification_misses % 10 == 0 and classification_misses > 0:
+                print(f"  [{source_name}] Classifying item {classification_misses} (cached: {classification_hits})...")
+            
+            thematic_res = zero_shot_engine(text, THEMATIC_CATEGORIES, multi_label=False)
+            thematic_category = thematic_res["labels"][0]
+            
+            industry_res = zero_shot_engine(text, ALL_INDUSTRIES, multi_label=True)
+            industry_labels = industry_res['labels']
+            industry_scores = industry_res['scores']
+            
+            # Cache the results for future runs
+            classification_cache[text_hash] = {
+                'thematic_category': thematic_category,
+                'industry_labels': industry_labels,
+                'industry_scores': industry_scores
+            }
+            classification_misses += 1
         
-        # 3. Industry Relevance & Scoring
-        # Multi-label classification to find all relevant industries
-        industry_res = zero_shot_engine(text, ALL_INDUSTRIES, multi_label=True)
+        # 3. Industry Relevance & Scoring (using cached or fresh results)
+        # industry_labels and industry_scores are already set above
         
         impacts = []
-        for label, relevance in zip(industry_res["labels"], industry_res["scores"]):
+        for label, relevance in zip(industry_labels, industry_scores):
             # Threshold for relevance
             # LOWERED THRESHOLD: 0.1 to capture more industries
             if relevance > 0.1: 
@@ -425,8 +478,15 @@ def process_news_list(raw_list: List[Any], source_name: str, cache: Set[str]) ->
         }
         events.append(ev)
     
+    # Save classification cache if we added new classifications
+    if classification_misses > 0:
+        save_classification_cache(classification_cache)
+        print(f"[CACHE] Saved {classification_misses} new classifications (total: {len(classification_cache)})")
+    
     if cache_hits > 0 or new_items > 0:
         print(f"[{source_name}] Processed: {new_items} new, {cache_hits} cached (skipped)")
+        if classification_hits > 0 or classification_misses > 0:
+            print(f"[{source_name}] Classifications: {classification_misses} new, {classification_hits} cached (speedup: {classification_hits + classification_misses}x faster)")
     return events
 
 def process_weather_dict(weather_obj: Dict[str, Any]) -> List[Dict[str, Any]]:
@@ -642,6 +702,7 @@ def run_pipeline(save_history: bool = True):
     
     # live output (overwrite)
     try:
+        print(f"DEBUG: Snapshot keys: {list(snapshot.keys())}")
         with LIVE_OUTPUT.open("w", encoding="utf-8") as f:
             json.dump(snapshot, f, indent=2, ensure_ascii=False)
     except Exception as e:

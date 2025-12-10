@@ -11,10 +11,14 @@ from http.server import HTTPServer, SimpleHTTPRequestHandler
 import os
 from pathlib import Path
 
+# Detect if running in Docker or local
+BASE_DIR = Path('/app') if Path('/app').exists() else Path(__file__).parent
+print(f"[INFO] Base directory: {BASE_DIR}")
+
 class EvolveXHandler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         # Set the directory to serve from
-        super().__init__(*args, directory="/app", **kwargs)
+        super().__init__(*args, directory=str(BASE_DIR), **kwargs)
     
     def end_headers(self):
         # Enable CORS
@@ -36,14 +40,14 @@ class EvolveXHandler(SimpleHTTPRequestHandler):
         
         # Serve output JSON files
         if path.startswith('/output/'):
-            return os.path.join('/app', path.lstrip('/'))
+            return os.path.join(str(BASE_DIR), path.lstrip('/'))
         
         # Serve UI assets
         if path.startswith('/assets/'):
-            return os.path.join('/app/ui/dist', path.lstrip('/'))
+            return os.path.join(str(BASE_DIR / 'ui' / 'dist'), path.lstrip('/'))
         
         # Serve index.html for root and all other routes (SPA)
-        return '/app/ui/dist/index.html'
+        return str(BASE_DIR / 'ui' / 'dist' / 'index.html')
 
 if __name__ == '__main__':
     port = 8000
