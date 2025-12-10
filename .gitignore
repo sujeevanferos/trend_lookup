@@ -66,6 +66,7 @@ srilanka_weather.json
 output/
 *.jsonl
 data/
+history/
 
 # CSV files - ignore all except training data
 *.csv
