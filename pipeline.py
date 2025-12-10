@@ -304,8 +304,12 @@ def build_transformers_fallbacks():
     # Zero-Shot Model (for Thematic Category & Industry Relevance)
     # We use the same model for both
     # Try local model first, then standard
-    # FIX: Use correct path to local model
-    model_path = "preprocessing/local_model" if Path("preprocessing/local_model").exists() else ("./local_model" if Path("./local_model").exists() else "valhalla/distilbart-mnli-12-3")
+    if Path("preprocessing/zero_shot_model").exists():
+        model_path = "preprocessing/zero_shot_model"
+    elif Path("./preprocessing/zero_shot_model").exists():
+        model_path = "./preprocessing/zero_shot_model"
+    else:
+        model_path = "valhalla/distilbart-mnli-12-3"
     try:
         zero_shot_engine = pipeline("zero-shot-classification", model=model_path, device=device)
     except Exception as e:
@@ -617,9 +621,16 @@ def run_pipeline(save_history: bool = True):
             events = process_news_list(raw_data, src_name, cache)
         all_events.extend(events)
 
+    # Calculate overall score (average of opportunity scores)
+    if all_events:
+        avg_score = sum(e.get("opportunity_score", 0) for e in all_events) / len(all_events)
+    else:
+        avg_score = 0.0
+
     snapshot = {
         "snapshot_id": str(uuid.uuid4()),
         "run_timestamp": now_iso(),
+        "overall_score": round(avg_score, 4),
         "events_count": len(all_events),
         "events": all_events
     }
