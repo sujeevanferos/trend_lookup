@@ -2,6 +2,7 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch
 transformers
+accelerate>=0.26.0
 numpy
 pandas
 scikit-learn
@@ -13,3 +14,4 @@ requests
 beautifulsoup4
 feedparser
 lxml
+
