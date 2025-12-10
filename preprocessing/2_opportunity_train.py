@@ -21,8 +21,8 @@ from transformers import (
 # -----------------------------------------------------------
 # CONFIG
 # -----------------------------------------------------------
-CSV_PATH = "opportunity_training.csv"
-OUT_DIR = "../engine/opportunity_model"
+CSV_PATH = os.path.join(os.path.dirname(__file__), "opportunity_training.csv")
+OUT_DIR = os.path.join(os.path.dirname(__file__), "../engine/opportunity_model")
 MODEL_NAME = "distilbert-base-uncased"
 
 EPOCHS = 4

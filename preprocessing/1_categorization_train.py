@@ -21,8 +21,8 @@ import evaluate
 # ---------------------------
 # CONFIG
 # ---------------------------
-CSV_PATH = "training_data.csv"
-OUT_DIR = "../engine/categorization_model"
+CSV_PATH = os.path.join(os.path.dirname(__file__), "training_data.csv")
+OUT_DIR = os.path.join(os.path.dirname(__file__), "../engine/categorization_model")
 MODEL_NAME = "distilbert-base-uncased"
 
 EPOCHS = 4

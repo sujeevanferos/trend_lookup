@@ -2,8 +2,8 @@
 #  Makefile for ML Model Training (CPU/GPU + Logs + Progress)
 # ============================================================
 
-# Python interpreter
-PYTHON := python3
+# Python interpreter (use venv if exists, else system python)
+PYTHON := $(shell if [ -f .venv/bin/python3 ]; then echo .venv/bin/python3; elif [ -f venv/bin/python3 ]; then echo venv/bin/python3; else echo python3; fi)
 
 # Training scripts
 CAT_SCRIPT := preprocessing/1_categorization_train.py
@@ -13,8 +13,8 @@ OPP_SCRIPT := preprocessing/2_opportunity_train.py
 CAT_MODEL_DIR := engine/categorization_model
 OPP_MODEL_DIR := engine/opportunity_model
 
-# Virtual environment (optional)
-VENV := venv
+# Virtual environment directory
+VENV := .venv
 
 # Colors
 Y := \033[33m
