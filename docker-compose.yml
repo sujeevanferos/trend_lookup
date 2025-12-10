@@ -1,11 +1,9 @@
-version: '3.8'
-
 services:
   evolvex:
     build: .
     container_name: evolvex-app
     ports:
-      - "8000:8000"    # API server
+      - "8000:8000" # API server
     volumes:
       # Persist data and outputs
       - ./jsons:/app/jsons
@@ -19,7 +17,7 @@ services:
       - PYTHONUNBUFFERED=1
     restart: unless-stopped
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8000/output/live_output.json"]
+      test: [ "CMD", "curl", "-f", "http://localhost:8000/output/live_output.json" ]
       interval: 30s
       timeout: 10s
       retries: 3
