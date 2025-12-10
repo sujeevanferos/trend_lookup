@@ -1,0 +1,50 @@
+version: '3.8'
+
+services:
+  evolvex:
+    build: .
+    container_name: evolvex-app
+    ports:
+      - "8000:8000"    # API server
+    volumes:
+      # Persist data and outputs
+      - ./jsons:/app/jsons
+      - ./output:/app/output
+      - ./history:/app/history
+      # Optional: Mount API keys if not baked into image
+      - ./resources/headlines/yt_key.py:/app/resources/headlines/yt_key.py
+      - ./resources/weather/weather_key.py:/app/resources/weather/weather_key.py
+    environment:
+      - TZ=Asia/Colombo
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/output/live_output.json"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Optional: Cron service for hourly runs
+  evolvex-cron:
+    build: .
+    container_name: evolvex-cron
+    volumes:
+      - ./jsons:/app/jsons
+      - ./output:/app/output
+      - ./history:/app/history
+      - ./resources/headlines/yt_key.py:/app/resources/headlines/yt_key.py
+      - ./resources/weather/weather_key.py:/app/resources/weather/weather_key.py
+    environment:
+      - TZ=Asia/Colombo
+      - PYTHONUNBUFFERED=1
+    command: |
+      sh -c 'while true; do
+        echo "Running hourly pipeline..."
+        python3 run_hourly.py
+        echo "Next run in 1 hour..."
+        sleep 3600
+      done'
+    restart: unless-stopped
+    depends_on:
+      - evolvex

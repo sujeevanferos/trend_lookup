@@ -10,8 +10,8 @@ CAT_SCRIPT := preprocessing/1_categorization_train.py
 OPP_SCRIPT := preprocessing/2_opportunity_train.py
 
 # Output model dirs
-CAT_MODEL_DIR := preprocessing/categorization_model
-OPP_MODEL_DIR := preprocessing/opportunity_model
+CAT_MODEL_DIR := engine/categorization_model
+OPP_MODEL_DIR := engine/opportunity_model
 
 # Virtual environment (optional)
 VENV := venv

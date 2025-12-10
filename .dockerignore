@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Data files
+jsons/*.json
+output/*.json
+history/*.jsonl
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+ui/dist/
+ui/build/
+*.log
+npm-debug.log*
+
+# Models (optional - uncomment if models are large)
+# preprocessing/local_model/
+# preprocessing/opp_reg_model/
+
+# Temporary
+*.tmp
+*.bak
+scripts_archive/
+
+# Docker
+.dockerignore
+
+# API Keys (IMPORTANT - never commit these!)
+resources/headlines/yt_key.py
+resources/weather/weather_key.py

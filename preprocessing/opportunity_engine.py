@@ -16,12 +16,13 @@ import torch
 import numpy as np
 
 # === Load Categorization Model (Model-1) ===
-from categorization_engine import predict as classify
+# from categorization_engine import predict as classify
 
 # === Load Opportunity Regression Model (Model-2) ===
 from transformers import DistilBertTokenizerFast, DistilBertForSequenceClassification
+import os
 
-REG_MODEL_DIR = "opportunity_model"
+REG_MODEL_DIR = os.path.join(os.path.dirname(__file__), "../engine/opportunity_model")
 
 print("Loading Opportunity Regression Model...")
 
@@ -134,3 +135,12 @@ if __name__ == "__main__":
     test_text = "It will be no tax from tomorrow."
     print(analyze(test_text))
 
+
+class OppEngineWrapper:
+    @staticmethod
+    def predict(text):
+        score = regression_score(text)
+        return score, 1.0
+
+def load():
+    return OppEngineWrapper()

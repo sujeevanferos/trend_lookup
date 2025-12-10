@@ -22,7 +22,7 @@ import evaluate
 # CONFIG
 # ---------------------------
 CSV_PATH = "training_data.csv"
-OUT_DIR = "categorization_model"
+OUT_DIR = "../engine/categorization_model"
 MODEL_NAME = "distilbert-base-uncased"
 
 EPOCHS = 4

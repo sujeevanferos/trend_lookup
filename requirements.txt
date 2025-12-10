@@ -1,0 +1,13 @@
+torch
+transformers
+numpy
+pandas
+scikit-learn
+datasets
+evaluate
+flask
+flask-cors
+requests
+beautifulsoup4
+feedparser
+lxml

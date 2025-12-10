@@ -22,7 +22,7 @@ from transformers import (
 # CONFIG
 # -----------------------------------------------------------
 CSV_PATH = "opportunity_training.csv"
-OUT_DIR = "opportunity_model"
+OUT_DIR = "../engine/opportunity_model"
 MODEL_NAME = "distilbert-base-uncased"
 
 EPOCHS = 4
