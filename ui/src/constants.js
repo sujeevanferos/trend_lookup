@@ -1,21 +1,36 @@
 export const INDUSTRIES = [
-    "Tourism & Hospitality",
-    "Financial Services",
-    "IT & Telecommunications",
-    "Transportation & Logistics",
-    "Textiles & Apparel",
-    "Processing of Commodities",
+    "Agriculture",
+    "Apparel Textiles",
+    "Banking Finance",
+    "Chemicals",
     "Construction",
-    "Tea",
-    "Rubber",
-    "Coconut",
-    "Gem & Jewellery",
-    "Foreign Employment"
+    "Education",
+    "Energy",
+    "Exports",
+    "Fisheries",
+    "Food Beverages",
+    "Forestry",
+    "Government Services",
+    "Healthcare",
+    "Hospitality",
+    "Ict Tech",
+    "Import Trade",
+    "Insurance",
+    "Logistics",
+    "Manufacturing",
+    "Media Communications",
+    "Mining",
+    "Pharmaceuticals",
+    "Real Estate",
+    "Retail",
+    "Tourism",
+    "Transportation"
 ];
 
 export const SECTORS = {
-    "Services": ["Tourism & Hospitality", "Financial Services", "IT & Telecommunications", "Transportation & Logistics"],
-    "Industry": ["Textiles & Apparel", "Processing of Commodities", "Construction"],
-    "Agriculture": ["Tea", "Rubber", "Coconut"],
-    "Other": ["Gem & Jewellery", "Foreign Employment"]
+    "Services": ["Tourism", "Hospitality", "Banking Finance", "Ict Tech", "Logistics", "Transportation", "Media Communications"],
+    "Industry": ["Apparel Textiles", "Manufacturing", "Construction", "Chemicals", "Mining", "Energy"],
+    "Agriculture": ["Agriculture", "Fisheries", "Forestry", "Food Beverages"],
+    "Trade": ["Retail", "Exports", "Import Trade"],
+    "Other": ["Healthcare", "Education", "Government Services", "Insurance", "Pharmaceuticals", "Real Estate"]
 };

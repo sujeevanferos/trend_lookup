@@ -42,6 +42,10 @@ class EvolveXHandler(SimpleHTTPRequestHandler):
         if path.startswith('/output/'):
             return os.path.join(str(BASE_DIR), path.lstrip('/'))
         
+        # Serve history JSONL files
+        if path.startswith('/history/'):
+            return os.path.join(str(BASE_DIR), path.lstrip('/'))
+        
         # Serve UI assets
         if path.startswith('/assets/'):
             return os.path.join(str(BASE_DIR / 'ui' / 'dist'), path.lstrip('/'))
