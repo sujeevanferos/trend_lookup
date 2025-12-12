@@ -55,6 +55,7 @@ categorization_model/
 *.onnx
 models/
 preprocessing/local_model/
+*.safetoners
 
 # Data and Output Files
 hourly_history.jsonl
