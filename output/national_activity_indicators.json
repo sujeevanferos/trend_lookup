@@ -1,1440 +1,155 @@
 {
-  "generated_at": "2025-12-12T05:47:25Z",
-  "total_indicators": 125,
+  "generated_at": "2025-12-14T06:22:14Z",
+  "total_indicators": 13,
   "indicators": [
     {
-      "id": "00e01b50-624d-4ed7-83e2-e217c59243c8",
-      "timestamp": "Thu, 13 Feb 2025 08:00:00 GMT",
+      "id": "67608e1a-08ab-416d-b378-d1556c01a861",
+      "timestamp": "Sun, 14 Dec 2025 02:56:25 +0000",
       "source": "sri_lanka_news",
-      "headline": "Why is Sri Lanka's budget key to recovery from a severe financial crisis? - Reuters",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.8698
-    },
-    {
-      "id": "593f3816-f6d5-44a6-aaf6-a643ca244843",
-      "timestamp": "Thu, 27 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka closes offices and schools as death toll from landslides and floods rises to 56 - AP News",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.822
-    },
-    {
-      "id": "efb100af-250f-4d2d-a72d-3dea5efbbdee",
-      "timestamp": "2025-12-12T05:45:36Z",
-      "source": "government_news",
-      "headline": "CCPI based headline inflation further accelerated as expected towards the target in October 2025",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Construction",
-        "Financial Services",
-        "Foreign Employment"
-      ],
-      "impact_score": -0.7417
-    },
-    {
-      "id": "49f7c360-9a78-4f9b-aff4-cc8ee7f74eb4",
-      "timestamp": "Thu, 04 Dec 2025 14:20:05 GMT",
-      "source": "sri_lanka_news",
-      "headline": "South-East Asia and Sri Lanka are reeling from storms and flooding - The Economist",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.739
-    },
-    {
-      "id": "f3416b2f-0f4f-41e4-a864-65bb42228425",
-      "timestamp": "Thu, 11 Dec 2025 03:02:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "‘Not normal’: Climate crisis supercharged deadly monsoon floods in Asia - The Guardian",
+      "headline": "Adverse Weather : Death toll Rises to 643",
       "thematic_category": "Extreme Weather Events",
       "top_industries_affected": [
         "Other"
       ],
-      "impact_score": -0.717
+      "impact_score": -0.728
     },
     {
-      "id": "44d97282-d336-4265-bc41-b776bdca8685",
-      "timestamp": "Fri, 05 Dec 2025 13:19:31 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Deadly cyclone dents Sri Lanka's peak tourism season - Reuters",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Tourism & Hospitality",
-        "Foreign Employment"
-      ],
-      "impact_score": -0.7131
-    },
-    {
-      "id": "1aa9de1d-baf9-4526-8cd7-dc9f4df9ab48",
-      "timestamp": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Cyclone Ditwah devastates all of Sri Lanka in unprecedented disaster - Le Monde.fr",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.7115
-    },
-    {
-      "id": "5efcb4c5-6daf-48d8-9d9c-c2e4391642d5",
-      "timestamp": "Wed, 15 Oct 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Tourism, Trade, and Economic Growth: Sri Lanka’s Strategic Push to Strengthen Relations with Belgium and the EU in the Indian Ocean Region - Travel And Tour World",
-      "thematic_category": "Trade & Foreign Relations",
-      "top_industries_affected": [
-        "Tourism & Hospitality",
-        "Foreign Employment"
-      ],
-      "impact_score": 0.7101
-    },
-    {
-      "id": "60d726e2-1135-4fdf-b352-25916ed91b31",
-      "timestamp": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s latest climate-driven floods expose flaws in disaster preparations – here’s what needs to change - The Conversation",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.708
-    },
-    {
-      "id": "70e91ee8-e461-4ac7-a8a5-fb4ea5b729e9",
-      "timestamp": "Thu, 11 Dec 2025 20:34:59 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Struggles in Aftermath of Devastating Cyclone - Human Rights Watch",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.7019
-    },
-    {
-      "id": "9a61d96c-b351-42a2-9964-df45fc9fc8cc",
-      "timestamp": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Weather tracker: Snowfall cuts power in Poland and flooding devastates Sri Lanka - The Guardian",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.6919
-    },
-    {
-      "id": "eecf76d7-f45b-45e9-a444-27c7cba82d1f",
-      "timestamp": "Thu, 27 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Heavy rains trigger landslides and floods in Sri Lanka, leaving more than 40 dead - AP News",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.6914
-    },
-    {
-      "id": "e9c10e2a-b843-4e41-9dd4-16f01cbd06e5",
-      "timestamp": "Thu, 27 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "More than 30 dead and 14 missing as heavy rains trigger landslides and floods in Sri Lanka - ABC News",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.6675
-    },
-    {
-      "id": "5151754a-74c5-4fee-95f0-dd633085bf06",
-      "timestamp": "Wed, 10 Dec 2025 23:05:47 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Increasing heavy rainfall and extreme flood heights in a warming climate threaten densely populated regions across Sri Lanka and the Malacca Strait - World Weather Attribution",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.6626
-    },
-    {
-      "id": "4c5c6f9c-5745-49a0-ac16-5b35a95a0f25",
-      "timestamp": "Fri, 12 Dec 2025 03:51:55 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Magnitude 6.7 earthquake hits Japan’s northeast region, tsunami advisory issued",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.6482
-    },
-    {
-      "id": "00efee5e-2629-436e-a229-2fe75327ede0",
-      "timestamp": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Floods and landslides – Cyclonic storm Ditwah November 2025 - World Health Organization (WHO)",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.6388
-    },
-    {
-      "id": "b54d245a-b6e3-462a-9371-a6357a5740d5",
-      "timestamp": "Fri, 05 Dec 2025 02:01:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Photos show devastating floods in Indonesia, Sri Lanka and Thailand - AP News",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.6369
-    },
-    {
-      "id": "bd40b41a-3fd0-4693-ad03-0e3105b5e45f",
-      "timestamp": "Thu, 11 Dec 2025 15:57:09 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka in 2025: Navigating Systemic Change, a Natural Disaster, and a Political Test for the NPP Government - South Asian Voices",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.6366
-    },
-    {
-      "id": "4fe9ee4a-3648-47d5-8eb2-a94913567250",
-      "timestamp": "Fri, 12 Dec 2025 04:59:46 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Death toll rises to 639; 211 still missing in Cyclone Ditwah",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.6364
-    },
-    {
-      "id": "76c90784-8767-40d5-9e4d-27a3fccf2528",
-      "timestamp": "2025-12-12T05:45:21Z",
-      "source": "government_news",
-      "headline": "CCPI based headline inflation remained unchanged in November 2025",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Construction",
-        "Financial Services",
-        "Foreign Employment"
-      ],
-      "impact_score": -0.6361
-    },
-    {
-      "id": "6770ce3f-b240-4dea-a6a5-a554da31293c",
-      "timestamp": "Thu, 11 Dec 2025 12:28:25 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Flood-hit Indonesia, Sri Lanka braces for more rain - Latest news from Azerbaijan",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.6201
-    },
-    {
-      "id": "eca0ad57-fdbc-4213-8eec-538ac99a2453",
+      "id": "285b43ad-c873-4ee0-a241-00e4a071c8fc",
       "timestamp": "Sat, 29 Nov 2025 08:00:00 GMT",
       "source": "sri_lanka_news",
-      "headline": "As Cyclone Deaths Pass 150, Sri Lanka Is Overwhelmed by Rescue Demand - The New York Times",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.6198
-    },
-    {
-      "id": "f3eddfa5-8f50-45db-8435-03cf6366dfb2",
-      "timestamp": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Death toll passes 1,100 in devastating floods across Indonesia, Sri Lanka, Malaysia and Thailand – as it happened - The Guardian",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.6178
-    },
-    {
-      "id": "a4a44a99-b6ef-459b-9baf-486c9e963509",
-      "timestamp": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "More than 50 killed in deadly Sri Lanka floods: What we know so far - Al Jazeera",
+      "headline": "Death toll from floods and mudslides in Sri Lanka rises to 132, with 176 people still missing - AP News",
       "thematic_category": "Extreme Weather Events",
       "top_industries_affected": [
         "Other"
       ],
-      "impact_score": -0.617
+      "impact_score": -0.6997
     },
     {
-      "id": "76683e18-5cad-4da6-9e6c-fbff3bd979d6",
-      "timestamp": "Thu, 11 Dec 2025 20:12:36 GMT",
+      "id": "f52a8b1e-ac80-42b2-b704-599e6bd0886f",
+      "timestamp": "Sun, 14 Dec 2025 03:43:49 GMT",
       "source": "sri_lanka_news",
-      "headline": "Cyclone Ditwah Causes Widespread Flooding Across Sri Lanka - JW.ORG",
+      "headline": "Sri Lanka’s Multi-Billion-Dollar Flood - Sri Lanka Guardian",
       "thematic_category": "Extreme Weather Events",
       "top_industries_affected": [
         "Other"
       ],
-      "impact_score": -0.6158
+      "impact_score": -0.6779
     },
     {
-      "id": "fab4d739-1dbf-451e-acc5-56200e6f4a1d",
-      "timestamp": "Fri, 12 Dec 2025 01:13:50 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Vietnam offers free trade expo space to boost Sri Lanka exports",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Foreign Employment",
-        "Textiles & Apparel",
-        "Tea"
-      ],
-      "impact_score": 0.6061
-    },
-    {
-      "id": "86bb5df6-a947-4b01-8534-96f4700b12a5",
-      "timestamp": "Wed, 10 Dec 2025 23:02:20 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Deadly November Asian storms 'supercharged' by climate change, researchers say - Reuters",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.5913
-    },
-    {
-      "id": "0df443ef-22b8-49d6-a9f5-a7cb33b021e3",
+      "id": "022b5a46-ef93-4646-8f06-83abb6f233d8",
       "timestamp": "Wed, 03 Dec 2025 08:00:00 GMT",
       "source": "sri_lanka_news",
-      "headline": "Sri Lankans sift mud to unearth victims four days after deadly cyclone - Reuters",
+      "headline": "Sri Lanka: Tropical Cyclone Ditwah - Flash Update 4 (As of 3 December, 3 p.m. local time) - ReliefWeb",
       "thematic_category": "Extreme Weather Events",
       "top_industries_affected": [
         "Other"
       ],
-      "impact_score": -0.5863
+      "impact_score": -0.5096
     },
     {
-      "id": "d57d836a-53c9-41f2-9328-44dd97ad3394",
-      "timestamp": "2025-12-12T05:44:44Z",
-      "source": "government_news",
-      "headline": "Sri Lanka remains grateful for the support extended by the United States and other friendly nations following the recent disaster - President",
+      "id": "ce8a0aba-9e45-4a7b-ad59-19415bf26bcf",
+      "timestamp": "Sat, 13 Dec 2025 14:50:14 +0000",
+      "source": "sri_lanka_news",
+      "headline": "Cyclone Ditwah hits 13,698 Sri Lanka businesses, hotline given",
       "thematic_category": "Extreme Weather Events",
       "top_industries_affected": [
-        "Foreign Employment"
+        "Other"
       ],
-      "impact_score": -0.5863
+      "impact_score": -0.5001
     },
     {
-      "id": "1620a9f4-9d8b-42f8-9b8d-f95afc78e42f",
-      "timestamp": "Fri, 12 Dec 2025 02:17:11 GMT",
+      "id": "948e0853-7c27-463b-b372-50f52dde246e",
+      "timestamp": "Thu, 24 Jul 2025 07:00:00 GMT",
       "source": "sri_lanka_news",
-      "headline": "Vietnam offers free trade expo space to boost Sri Lanka exports - EconomyNext",
+      "headline": "As Sri Lanka's economy pivots from tourism, it's well placed to benefit from global trade and geopolitical jostling – new research - Brunel University",
       "thematic_category": "Market Trends",
       "top_industries_affected": [
-        "Foreign Employment",
-        "Textiles & Apparel",
-        "IT & Telecommunications"
-      ],
-      "impact_score": 0.5849
-    },
-    {
-      "id": "7167062a-0279-4bbb-8b35-207fd68a1fa3",
-      "timestamp": "Sun, 30 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "‘Neighbourhoods buried under mud’: Sri Lanka floods death toll reaches 334 - Al Jazeera",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.5809
-    },
-    {
-      "id": "0cace89b-913e-4bf6-91d5-1fd8d9e61acb",
-      "timestamp": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka braces for more flooding as Cyclone Ditwah claims 46 lives - Reuters",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
+        "Tourism & Hospitality",
         "Foreign Employment"
       ],
-      "impact_score": -0.5806
+      "impact_score": 0.4589
     },
     {
-      "id": "6cb95772-30cc-4ccf-a968-a4e890bfa1eb",
-      "timestamp": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "id": "a451adbf-085d-4a3b-8a59-33609c80b417",
+      "timestamp": "Sun, 14 Dec 2025 05:27:27 GMT",
       "source": "sri_lanka_news",
-      "headline": "Sri Lanka braced for more damage after torrential rain kills hundreds across Asia - The Guardian",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.5719
-    },
-    {
-      "id": "f30f92dc-a657-431b-a470-4d481fa0f86e",
-      "timestamp": "Thu, 11 Dec 2025 14:28:47 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka remains grateful for the support extended by the United States and other friendly nations following the recent disaster – President - President Media Division",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.5714
-    },
-    {
-      "id": "45bd510b-c11f-43ea-9ddc-deec30884ea4",
-      "timestamp": "Thu, 11 Dec 2025 00:25:36 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Devastated by Cyclone Ditwah, Sri Lanka is recovering - Youth Journalism International",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.5709
-    },
-    {
-      "id": "ff3c44d8-de83-4fc4-b898-8e1adde23156",
-      "timestamp": "Thu, 20 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "From Crisis to Comeback: How Climate-Smart Growth Can Power Sri Lanka’s Recovery - World Bank Group",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.5702
-    },
-    {
-      "id": "27bd381f-5fd1-49d7-8fb9-8f401f0ba35c",
-      "timestamp": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka: Dozens dead as cyclone Ditwah hits country - DW",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.5702
-    },
-    {
-      "id": "878f2087-041f-4dea-a1d2-db01480c3781",
-      "timestamp": "Fri, 17 Oct 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Flawed tax policies led to Sri Lanka’s economic meltdown: Report - News Arena India",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.5678
-    },
-    {
-      "id": "e8bc2ac3-e752-4834-a58a-c39eb865b502",
-      "timestamp": "Fri, 12 Dec 2025 00:45:19 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Video: Workers speak on Cyclone Ditwah disaster and government neglect in Sri Lanka - World Socialist Web Site",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.5671
-    },
-    {
-      "id": "29b40b27-1f54-4d17-bb45-7f3ce3438b9a",
-      "timestamp": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "British women stranded by landslides in Sri Lankan mountains running out of food and water, daughter says - The Guardian",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.5657
-    },
-    {
-      "id": "8752b39b-9ef3-4a2a-8bd3-125fd461091c",
-      "timestamp": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "‘We have to rebuild from scratch’: Sri Lankans relive the devastation of Cyclone Ditwah - The Guardian",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Construction"
-      ],
-      "impact_score": -0.5547
-    },
-    {
-      "id": "d9d066fc-93a4-41c1-825c-176b1a23e2fa",
-      "timestamp": "Mon, 07 Apr 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka fashion sector praises government response to US tariffs - Just Style",
+      "headline": "Indian Army steps up efforts to restore connectivity in Sri Lanka, begins preparatory works at Chilaw and - The Economic Times",
       "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Textiles & Apparel",
-        "Foreign Employment"
-      ],
-      "impact_score": 0.5498
-    },
-    {
-      "id": "5e0429d6-2c9f-417f-a327-8933744ce80c",
-      "timestamp": "Fri, 12 Dec 2025 05:30:50 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka has enough seed paddy to re-cultivate cyclone damaged fields",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.5433
-    },
-    {
-      "id": "e01b0a95-0e75-4723-8ab3-f479aaa1a026",
-      "timestamp": "Sat, 29 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Over 100 Dead in Sri Lanka After Cyclone Ditwah - Newsweek",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.5431
-    },
-    {
-      "id": "2f85ac47-5423-4875-b799-a059844ca5f3",
-      "timestamp": "Thu, 11 Dec 2025 13:01:09 GMT",
-      "source": "sri_lanka_news",
-      "headline": "UN seeks $35M in emergency funding to aid cyclone-hit Sri Lanka - TRT World",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.5335
-    },
-    {
-      "id": "a3bf8af5-7b54-4741-b3b8-fad2b65513ec",
-      "timestamp": "Thu, 11 Dec 2025 17:05:01 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Global warming causing extreme rainfall that threatens Sri Lanka, Malacca Strait region: Report - Anadolu Ajansı",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.5325
-    },
-    {
-      "id": "c063d79e-e822-4f69-acde-6a332abd6e5c",
-      "timestamp": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka: Local Christian communities offer aid to victims of Cyclone Ditwah - Vatican News",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.5322
-    },
-    {
-      "id": "44675d3e-497f-4faa-b491-39d81db4acfb",
-      "timestamp": "Fri, 28 Nov 2025 06:18:51 GMT",
-      "source": "sri_lanka_news",
-      "headline": "November 28th, 2025 – Weather Alert – Cyclonic Storm ‘Ditwah’ – U.S. Embassy in Sri Lanka - U.S. Embassy in Sri Lanka (.gov)",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.527
-    },
-    {
-      "id": "d419f887-99b5-4b0f-947d-0706e355c9cb",
-      "timestamp": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Updates: 1,150 killed in floods in Indonesia, Sri Lanka, Thailand, Malaysia - Al Jazeera",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.5253
-    },
-    {
-      "id": "93cb9891-527f-415d-9e85-d3315a517944",
-      "timestamp": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "More than 1,300 dead from floods in Indonesia, Sri Lanka and Thailand as rescue efforts intensify - AP News",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.5236
-    },
-    {
-      "id": "8aeda986-e02c-4c6a-9032-1007bfaad91b",
-      "timestamp": "Thu, 11 Dec 2025 12:30:33 +0000",
-      "source": "sri_lanka_news",
-      "headline": "UN launches $35 million appeal for Sri Lanka cyclone relief",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.5168
-    },
-    {
-      "id": "03e26391-41d0-4ff9-a403-628293f54e76",
-      "timestamp": "Fri, 05 Dec 2025 10:05:09 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka cyclone survivors afraid to go home, stuck in relief centres - Reuters",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.5026
-    },
-    {
-      "id": "78a1ecf3-cef9-4753-bf98-a277515913d0",
-      "timestamp": "Tue, 09 Sep 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "World Bank, Sri Lanka Team Up to Enhance Rural Economy - Mirage News",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": 0.5025
-    },
-    {
-      "id": "ca064931-98e1-4832-82c5-2a39b6e319a0",
-      "timestamp": "Thu, 11 Dec 2025 07:34:19 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Rebuilding housing post-Ditwah: Lessons from Sri Lanka’s tsunami experience",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Construction"
-      ],
-      "impact_score": -0.4987
-    },
-    {
-      "id": "7a649630-fd36-4fc2-96ce-e3fb082bbba8",
-      "timestamp": "2025-12-12T05:45:19Z",
-      "source": "government_news",
-      "headline": "Relief Measures to Assist Individuals and Businesses affected by the Recent Cyclonic and Flood Disasters by Licensed Banks",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Financial Services"
-      ],
-      "impact_score": -0.4957
-    },
-    {
-      "id": "5435e632-11ec-41e4-87e9-870a57ee28ac",
-      "timestamp": "Thu, 11 Dec 2025 10:39:28 GMT",
-      "source": "sri_lanka_news",
-      "headline": "IsraAID responding to Cyclone Ditwah in Sri Lanka - IsraAID",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.4955
-    },
-    {
-      "id": "51319ff5-8036-48fc-86f1-8161f9643042",
-      "timestamp": "Fri, 12 Dec 2025 01:07:30 GMT",
-      "source": "sri_lanka_news",
-      "headline": "UN launches $35 million appeal for Sri Lanka cyclone relief - EconomyNext",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.4939
-    },
-    {
-      "id": "e0e28e4b-0661-40b7-a562-9348ccb4cbab",
-      "timestamp": "20251210T023000Z",
-      "source": "sri_lanka_news",
-      "headline": "Chinese emergency humanitarian flood relief supplies arrive in Colombo",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.4922
-    },
-    {
-      "id": "653762d4-4776-4be5-b762-9994acb1d767",
-      "timestamp": "Sun, 07 Dec 2025 06:01:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka issues landslide warnings as cyclone toll hits 627 - The Hindu",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.4879
-    },
-    {
-      "id": "86e8556f-6365-4f64-90a5-0797161dd21d",
-      "timestamp": "Thu, 11 Dec 2025 16:34:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "U.N. to mobilise $35 million grant for cyclone-hit Sri Lanka - The Hindu",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment",
-        "Construction"
-      ],
-      "impact_score": -0.4845
-    },
-    {
-      "id": "fa2b8f47-bc8a-484c-bcdb-485e7c11ece0",
-      "timestamp": "Thu, 11 Dec 2025 13:42:23 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Humanitarian Priorities Plan - Cyclone Ditwa - ReliefWeb",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.4789
-    },
-    {
-      "id": "3afafc87-2bf9-40c6-bfb2-6c900781fd25",
-      "timestamp": "Tue, 09 Dec 2025 11:05:37 GMT",
-      "source": "sri_lanka_news",
-      "headline": "EU releases €2.4 million flood response aid in Sri Lanka, Indonesia and Thailand - European Civil Protection and Humanitarian Aid Operations",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.4529
-    },
-    {
-      "id": "165df161-909a-4991-ad4d-d647f379adfa",
-      "timestamp": "Tue, 07 Oct 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka's recovery remains incomplete, urgent reforms needed: World Bank - Business Standard",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Foreign Employment",
-        "Financial Services",
-        "IT & Telecommunications"
-      ],
-      "impact_score": -0.4502
-    },
-    {
-      "id": "90783a49-1a55-4824-a591-81b374069e6e",
-      "timestamp": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Rescuers race in search for survivors after last week's floods in Indonesia, Sri Lanka and Thailand - AP News",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.4495
-    },
-    {
-      "id": "8526d4ba-7eec-441b-bd8f-b11749009f62",
-      "timestamp": "2025-12-12T05:46:39Z",
-      "source": "government_news",
-      "headline": "Department of Imports and Exports",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": 0.4459
-    },
-    {
-      "id": "d616bb2a-735c-427c-bcf3-a39425a2e56e",
-      "timestamp": "Thu, 11 Dec 2025 16:15:09 GMT",
-      "source": "sri_lanka_news",
-      "headline": "IsraAID sending team to Sri Lanka to help recovery in wake of Cyclone Ditwah - JNS.org",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.445
-    },
-    {
-      "id": "eaa8c361-199c-45af-8ff9-ed0247df535e",
-      "timestamp": "2025-12-12T05:44:50Z",
-      "source": "government_news",
-      "headline": "‘Beyond Recovery’ Pilot Project Launched in Badulla to Support Mental Wellbeing of Cyclone Ditwah-Affected Communities",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.4442
-    },
-    {
-      "id": "bf9c4f47-45b7-44d6-8224-1895970931d0",
-      "timestamp": "Thu, 11 Dec 2025 06:22:28 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Reading University student's relatives evacuated in Sri Lanka floods - BBC",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.4345
-    },
-    {
-      "id": "d6e52d8c-9db0-44ea-8d7c-0ab7426abecc",
-      "timestamp": "Thu, 11 Dec 2025 18:30:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "India: Kerala Proves Poverty Isn’t Destiny - Sri Lanka Guardian",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.4306
-    },
-    {
-      "id": "e978091c-f00e-42bd-9599-bdd43b902e8d",
-      "timestamp": "Thu, 11 Dec 2025 15:31:14 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Cabinet green light to obtain a grant from the Asia Pacific Disaster Response Fund for post – disaster relief and rehabilitation activities - The Island.lk",
-      "thematic_category": "Extreme Weather Events",
       "top_industries_affected": [
         "Construction",
-        "Tea",
-        "Foreign Employment"
-      ],
-      "impact_score": -0.4301
-    },
-    {
-      "id": "dd4ff763-3ad8-48fa-a534-8da30871198e",
-      "timestamp": "Thu, 11 Dec 2025 06:40:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Photo shows overflowing Indian river, not floodwaters in Sri Lanka - Yahoo",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.43
-    },
-    {
-      "id": "3c87f73a-2c42-4b3f-9fbd-16afe87521d4",
-      "timestamp": "2025-12-12T05:46:18Z",
-      "source": "government_news",
-      "headline": "Department of Trade and Investment Policies",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": 0.4195
-    },
-    {
-      "id": "6520bfdd-1a5c-4a9b-968e-a1f727e329ce",
-      "timestamp": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka and Indonesia deploy militaries as Asia floods death toll passes 1,100 - The Guardian",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.4096
-    },
-    {
-      "id": "01ce4f94-c55a-40f6-9ed1-d1fe9f56cc89",
-      "timestamp": "2025-12-12T05:46:26Z",
-      "source": "government_news",
-      "headline": "Department of Public Enterprises",
-      "thematic_category": "Regulatory & Governance",
-      "top_industries_affected": [
-        "Construction",
-        "Tourism & Hospitality",
+        "Foreign Employment",
         "IT & Telecommunications"
       ],
-      "impact_score": 0.3825
+      "impact_score": 0.2699
     },
     {
-      "id": "db9253a2-73f2-4cae-96b6-d6eb8dc90ba7",
-      "timestamp": "2025-12-12T05:45:50Z",
-      "source": "government_news",
-      "headline": "Minister of Finance",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Financial Services",
-        "Foreign Employment"
-      ],
-      "impact_score": 0.3655
-    },
-    {
-      "id": "b0316390-cb1e-464d-96e8-a26de4b4ec3d",
-      "timestamp": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "id": "4873df3a-985c-4d54-b826-6109b586a787",
+      "timestamp": "Fri, 31 Oct 2025 07:00:00 GMT",
       "source": "sri_lanka_news",
-      "headline": "Sri Lankan airlines continue to suffer losses as government look to restructure debt - Tamil Guardian",
+      "headline": "India hands over multi-ethnic trilingual school to Lankan government - ET Education",
       "thematic_category": "Market Trends",
       "top_industries_affected": [
         "Foreign Employment"
       ],
-      "impact_score": -0.3523
+      "impact_score": 0.1544
     },
     {
-      "id": "de19f5f1-8517-479b-9383-1989bc810b2b",
-      "timestamp": "2025-12-12T05:46:07Z",
-      "source": "government_news",
-      "headline": "Department of Fiscal Policy",
+      "id": "f8898f2c-4b0e-4b5c-9481-7f9791996469",
+      "timestamp": "Sun, 14 Dec 2025 05:00:28 +0000",
+      "source": "sri_lanka_news",
+      "headline": "Special Parliament session to be held on December 18, speaker announces",
       "thematic_category": "Regulatory & Governance",
       "top_industries_affected": [
-        "Financial Services"
-      ],
-      "impact_score": 0.3491
-    },
-    {
-      "id": "0ac16b04-ea41-4b90-a8c3-611e67c0e62f",
-      "timestamp": "Fri, 12 Dec 2025 01:10:32 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka recognizes Omega Line as exporter of the year, Akbar Brothers top forex earner",
-      "thematic_category": "Corporate/Company News",
-      "top_industries_affected": [
         "Foreign Employment",
         "Financial Services",
-        "Tea"
-      ],
-      "impact_score": 0.3473
-    },
-    {
-      "id": "3018e33c-bcc7-4101-b1a8-007243ea2e11",
-      "timestamp": "2025-12-12T05:47:19Z",
-      "source": "government_news",
-      "headline": "Public Administration",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": 0.3454
-    },
-    {
-      "id": "9131c89b-69c2-48bd-9f3e-cd46e9383be2",
-      "timestamp": "2025-12-12T05:44:47Z",
-      "source": "government_news",
-      "headline": "President’s Fund Supports Full Renovation of Wijewardane Children’s Home in Panadura",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": 0.3428
-    },
-    {
-      "id": "9a5ccb39-de0f-473d-a2cc-ae37bb14cb4c",
-      "timestamp": "2025-12-12T05:46:13Z",
-      "source": "government_news",
-      "headline": "Department of Public Finance",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Financial Services"
-      ],
-      "impact_score": 0.3388
-    },
-    {
-      "id": "63567642-f2d0-4d5e-8053-d62d968ac2ea",
-      "timestamp": "2025-12-12T05:47:14Z",
-      "source": "government_news",
-      "headline": "Presidential Secretariat",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": 0.3188
-    },
-    {
-      "id": "f2a5b428-d682-42b9-bcca-e51292894940",
-      "timestamp": "2025-12-12T05:47:17Z",
-      "source": "government_news",
-      "headline": "Parliament of Sri Lanka",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": 0.3119
-    },
-    {
-      "id": "730186b3-8004-4c23-a044-822d46021fb7",
-      "timestamp": "Thu, 11 Dec 2025 00:23:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "WFP scales up its emergency response in Sri Lanka - The Island.lk",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.3118
-    },
-    {
-      "id": "b11421f0-721f-444b-8de1-af3bb6399626",
-      "timestamp": "2025-12-12T05:47:09Z",
-      "source": "government_news",
-      "headline": "Budget Estimates",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Tourism & Hospitality",
-        "Construction"
-      ],
-      "impact_score": -0.3028
-    },
-    {
-      "id": "87abab57-a0a5-45d3-93db-221f433c447a",
-      "timestamp": "Fri, 12 Dec 2025 04:18:28 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Bulgarian government resigns after weeks of street protests",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.2943
-    },
-    {
-      "id": "999ff068-8a68-4974-90a8-79fe6e00cfd2",
-      "timestamp": "2025-12-12T05:46:58Z",
-      "source": "government_news",
-      "headline": "RTI / Internal Affairs Unit",
-      "thematic_category": "Regulatory & Governance",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": 0.2902
-    },
-    {
-      "id": "78860eb2-3d78-4da3-8abb-1c3984254065",
-      "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Achieves Record-Breaking Surge in Workers’ Remittances and Tourism Revenue Driving Unstoppable Economic Growth 2025 - Travel And Tour World",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Tourism & Hospitality",
-        "Foreign Employment"
-      ],
-      "impact_score": 0.2835
-    },
-    {
-      "id": "0dd21692-5e05-4b0f-9c29-3b052ae5ea5c",
-      "timestamp": "2025-12-12T05:44:52Z",
-      "source": "government_news",
-      "headline": "Malwatta, Asgiriya Deputy Registrars and Diyawadana Nilame Meet President",
-      "thematic_category": "Regulatory & Governance",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": 0.2764
-    },
-    {
-      "id": "6b33f1d8-6f72-46ca-aa35-4e4db9260300",
-      "timestamp": "2025-12-12T05:45:08Z",
-      "source": "government_news",
-      "headline": "Monetary Policy Review - No. 5 of 2025",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Financial Services",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ],
-      "impact_score": 0.2736
-    },
-    {
-      "id": "9cabc61d-c89b-44e8-b8fa-3d28386fbc80",
-      "timestamp": "2025-12-12T05:45:12Z",
-      "source": "government_news",
-      "headline": "Monetary Policy Review - No. 3 of 2025",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Financial Services",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ],
-      "impact_score": 0.2721
-    },
-    {
-      "id": "9be818fb-a194-4e06-bc00-b357e8c85e0f",
-      "timestamp": "2025-12-12T05:45:14Z",
-      "source": "government_news",
-      "headline": "Monetary Policy Review - No. 2 of 2025",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Financial Services",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ],
-      "impact_score": 0.2719
-    },
-    {
-      "id": "3cb70933-593a-40f0-9be5-9a455ac46779",
-      "timestamp": "2025-12-12T05:46:09Z",
-      "source": "government_news",
-      "headline": "Department of National Budget",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": 0.2716
-    },
-    {
-      "id": "d452c26c-609b-45b8-b477-ad0264ded49a",
-      "timestamp": "2025-12-12T05:45:48Z",
-      "source": "government_news",
-      "headline": "Purview and Function",
-      "thematic_category": "Regulatory & Governance",
-      "top_industries_affected": [
-        "Tourism & Hospitality",
-        "IT & Telecommunications",
-        "Transportation & Logistics"
-      ],
-      "impact_score": 0.2715
-    },
-    {
-      "id": "61135855-33f8-4728-a98d-f1744d064749",
-      "timestamp": "2025-12-12T05:45:10Z",
-      "source": "government_news",
-      "headline": "Monetary Policy Review - No. 4 of 2025",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Financial Services",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ],
-      "impact_score": 0.2696
-    },
-    {
-      "id": "c327a77a-e3cd-43dd-ab42-6ab6b12fa24c",
-      "timestamp": "2025-12-12T05:45:06Z",
-      "source": "government_news",
-      "headline": "Monetary Policy Review - No. 6 of 2025",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Financial Services",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ],
-      "impact_score": 0.2693
-    },
-    {
-      "id": "b4c8df4f-426e-41f2-a45d-d53b1173cc22",
-      "timestamp": "Wed, 10 Dec 2025 19:32:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "FCCISL presents five strategic budget proposals aimed at accelerating Sri Lanka’s economic recovery - dailynews.lk",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Financial Services",
-        "Foreign Employment",
-        "Tourism & Hospitality"
-      ],
-      "impact_score": 0.2656
-    },
-    {
-      "id": "4f43d220-acd1-4c62-96e3-040930dc98d3",
-      "timestamp": "Thu, 11 Dec 2025 19:58:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Focus must shift on accelerating GDP growth at over 7% pace – WB - dailynews.lk",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Financial Services",
-        "Foreign Employment",
-        "Tourism & Hospitality"
-      ],
-      "impact_score": 0.2646
-    },
-    {
-      "id": "cb1f5e0e-28c3-42ab-b0ed-0b2a5054b42c",
-      "timestamp": "Thu, 11 Dec 2025 10:23:27 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka transfers Trincomalee land meant for vocational university to tourism project",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Tourism & Hospitality"
-      ],
-      "impact_score": 0.2625
-    },
-    {
-      "id": "2e34e335-c9fa-40b9-9f6c-143e6350a331",
-      "timestamp": "2025-12-12T05:45:51Z",
-      "source": "government_news",
-      "headline": "Deputy Ministers",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
         "IT & Telecommunications"
       ],
-      "impact_score": 0.2623
+      "impact_score": 0.1261
     },
     {
-      "id": "a3f92623-e2b7-4466-be42-3adb1d54d043",
-      "timestamp": "Mon, 03 Feb 2025 08:00:00 GMT",
+      "id": "fab58177-ed49-4897-9d8a-3a6224f8cec8",
+      "timestamp": "Sun, 14 Dec 2025 03:56:34 +0000",
       "source": "sri_lanka_news",
-      "headline": "Debt-stricken Sri Lanka marks independence day as new president pledges to rebuild the country - AP News",
+      "headline": "Sri Lanka parliament to meet on Dec 10 on Ditwah recovery spending",
+      "thematic_category": "Macro/Economic Policy",
+      "top_industries_affected": [
+        "Tourism & Hospitality",
+        "Foreign Employment"
+      ],
+      "impact_score": 0.1124
+    },
+    {
+      "id": "7b61a438-bbe5-46fe-92ad-1573f07a9db0",
+      "timestamp": "Thu, 10 Apr 2025 07:00:00 GMT",
+      "source": "sri_lanka_news",
+      "headline": "Sri Lanka's prime minister gives timeline on drafting new constitution - ConstitutionNet",
       "thematic_category": "Social/Political Issues",
       "top_industries_affected": [
-        "Foreign Employment",
+        "Foreign Employment"
+      ],
+      "impact_score": 0.065
+    },
+    {
+      "id": "21483a23-8285-4cd7-b1f7-962318f5ee9d",
+      "timestamp": "Sun, 22 Sep 2024 07:00:00 GMT",
+      "source": "sri_lanka_news",
+      "headline": "In a political paradigm shift, Sri Lanka leans to the left - BBC",
+      "thematic_category": "Social/Political Issues",
+      "top_industries_affected": [
+        "Foreign Employment"
+      ],
+      "impact_score": 0.0524
+    },
+    {
+      "id": "7aa805ef-c204-4446-9e0a-f2d0170f1229",
+      "timestamp": "Sun, 14 Dec 2025 04:40:10 +0000",
+      "source": "sri_lanka_news",
+      "headline": "‘No new roads will be allowed through Knuckles Reserve’- Environment Ministry",
+      "thematic_category": "Regulatory & Governance",
+      "top_industries_affected": [
         "Construction"
       ],
-      "impact_score": -0.247
-    },
-    {
-      "id": "726f7fed-ddd0-4a87-add2-21ee7102aa02",
-      "timestamp": "Fri, 12 Dec 2025 03:44:22 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s Shameless Leader and His Lilliputian Regime - Sri Lanka Guardian",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.2381
-    },
-    {
-      "id": "dc98e485-4a23-4648-81e6-75635b39deb3",
-      "timestamp": "2025-12-12T05:47:15Z",
-      "source": "government_news",
-      "headline": "Prime Minister’s Office",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": 0.2331
-    },
-    {
-      "id": "990ba7b2-7717-4e17-9f78-bad07809cefe",
-      "timestamp": "Fri, 12 Dec 2025 02:41:57 GMT",
-      "source": "sri_lanka_news",
-      "headline": "President AKD – Under Secretary Allison Hooker meet - Sri Lanka Mirror",
-      "thematic_category": "Regulatory & Governance",
-      "top_industries_affected": [
-        "Foreign Employment",
-        "Tourism & Hospitality"
-      ],
-      "impact_score": 0.2273
-    },
-    {
-      "id": "52ffa447-abf3-4d76-b096-0c59c493e103",
-      "timestamp": "2025-12-12T05:45:34Z",
-      "source": "government_news",
-      "headline": "Public Consultation on Amendments to the Finance Business Act, No.42 of 2011 (FBA)",
-      "thematic_category": "Regulatory & Governance",
-      "top_industries_affected": [
-        "Financial Services",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ],
-      "impact_score": 0.2263
-    },
-    {
-      "id": "f029a0d3-48b9-4a85-b2d1-da619f60b55a",
-      "timestamp": "2025-12-12T05:46:44Z",
-      "source": "government_news",
-      "headline": "Acts, Gazettes, Circulars & Guidelines",
-      "thematic_category": "Regulatory & Governance",
-      "top_industries_affected": [
-        "Foreign Employment",
-        "Financial Services",
-        "Tourism & Hospitality"
-      ],
-      "impact_score": 0.2256
-    },
-    {
-      "id": "5a4de28e-3363-4511-a450-65e3d6a953cc",
-      "timestamp": "Thu, 11 Dec 2025 01:26:24 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Federal Reserve cuts rates despite above target inflation in dual mandate confusion",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Financial Services",
-        "Foreign Employment"
-      ],
-      "impact_score": -0.2122
-    },
-    {
-      "id": "10048185-dc6f-46e1-b046-db4b35846ed5",
-      "timestamp": "2025-12-12T05:46:42Z",
-      "source": "government_news",
-      "headline": "Public Debt Management Office",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": 0.2106
-    },
-    {
-      "id": "a028e42f-b9b6-48b9-9bd5-31089aeaebc2",
-      "timestamp": "2025-12-12T05:46:49Z",
-      "source": "government_news",
-      "headline": "Guidelines",
-      "thematic_category": "Regulatory & Governance",
-      "top_industries_affected": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
-        "Financial Services"
-      ],
-      "impact_score": 0.2087
-    },
-    {
-      "id": "1f748b5c-0d5e-4136-a94a-d85f556f64f9",
-      "timestamp": "Fri, 12 Dec 2025 00:00:16 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Why Sri Lanka needs a National Budget Performance and Evaluation Office - The Island.lk",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": 0.1849
-    },
-    {
-      "id": "92c813ff-c23d-42b3-a4de-fa36b25cc638",
-      "timestamp": "Tue, 18 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Gets USD 300M ADB Aid for Economy - Rediff MoneyWiz",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Tourism & Hospitality",
-        "Foreign Employment",
-        "Financial Services"
-      ],
-      "impact_score": 0.1781
-    },
-    {
-      "id": "88b0b06d-a62a-4041-b013-3951fd9355c5",
-      "timestamp": "Wed, 24 Sep 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s NPP Government. From System Change to Structural Compliance - Ifri",
-      "thematic_category": "Regulatory & Governance",
-      "top_industries_affected": [
-        "Construction",
-        "Tourism & Hospitality"
-      ],
-      "impact_score": 0.1342
-    },
-    {
-      "id": "4d935df9-96f2-4711-9e49-f202c51dff60",
-      "timestamp": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "An Intense Monsoon Season Is Battering Parts of Asia. Here’s What We Know. - The New York Times",
-      "thematic_category": "Extreme Weather Events",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.1315
-    },
-    {
-      "id": "96352faa-4c6c-4bb9-a38b-8bec83e38953",
-      "timestamp": "Thu, 11 Dec 2025 05:52:05 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s Hela Apparel says banks to recast debt on Rs3-4bn capital injection",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Textiles & Apparel"
-      ],
-      "impact_score": 0.1233
-    },
-    {
-      "id": "33edaa12-7232-46d2-9e92-84f53550c6db",
-      "timestamp": "2025-12-12T05:45:29Z",
-      "source": "government_news",
-      "headline": "Notice to General Public on Prohibited Pyramid Schemes",
-      "thematic_category": "Corporate/Company News",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": 0.1114
-    },
-    {
-      "id": "8872dde9-beae-41b0-b64b-ba5de16140b6",
-      "timestamp": "2025-12-12T05:47:06Z",
-      "source": "government_news",
-      "headline": "Laws Regulations and Reforms",
-      "thematic_category": "Regulatory & Governance",
-      "top_industries_affected": [
-        "Financial Services",
-        "Foreign Employment"
-      ],
-      "impact_score": 0.1114
-    },
-    {
-      "id": "eb528998-2bd0-4915-81a7-6401c6022413",
-      "timestamp": "Wed, 10 Dec 2025 23:58:08 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Before Pointing Fingers At Canada, Sri Lanka Should Look Inward – OpEd - Eurasia Review",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": 0.1019
-    },
-    {
-      "id": "b4f3d900-41a3-4c09-9031-e674b6275c5a",
-      "timestamp": "Mon, 16 Jun 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka has 'no room for policy errors' in economic reforms, IMF says - Reuters",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Foreign Employment",
-        "Financial Services",
-        "Tourism & Hospitality"
-      ],
-      "impact_score": -0.1016
-    },
-    {
-      "id": "5179c512-1471-4e28-bffc-b0161dfe3534",
-      "timestamp": "2025-12-12T05:44:54Z",
-      "source": "government_news",
-      "headline": "Cabinet Decisions",
-      "thematic_category": "Market Trends",
-      "top_industries_affected": [
-        "Financial Services",
-        "Tourism & Hospitality",
-        "Foreign Employment"
-      ],
-      "impact_score": -0.0963
-    },
-    {
-      "id": "98d93ff1-d70b-4bc6-8232-1e3580bb4307",
-      "timestamp": "Thu, 11 Dec 2025 06:29:55 GMT",
-      "source": "sri_lanka_news",
-      "headline": "U.S. Under Secretary of State for Political Affairs Hooker’s Travel to Sri Lanka - U.S. Embassy in Sri Lanka (.gov)",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": 0.0958
-    },
-    {
-      "id": "8827a4e4-6972-4704-9e80-3501cfbf01f9",
-      "timestamp": "Wed, 03 Sep 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Union government exempts Sri Lankan Tamil refugees who came before January 9, 2015 from penal provisions - The Hindu",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Foreign Employment"
-      ],
-      "impact_score": -0.0845
-    },
-    {
-      "id": "f58b3dd0-abed-4f4a-bda2-8e36f201f8e8",
-      "timestamp": "Sun, 12 Oct 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lankan government moves to acquire Tamil-owned land in Jaffna for the navy use - Tamil Guardian",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.0815
-    },
-    {
-      "id": "f57afa0e-3abe-4c28-9621-071ebd809c46",
-      "timestamp": "Fri, 21 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lankan opposition rallies in first major protest against Dissanayake government - AP News",
-      "thematic_category": "Social/Political Issues",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.069
-    },
-    {
-      "id": "8bb020f8-a3f5-41ee-9a75-62e8fefbdb50",
-      "timestamp": "2025-12-12T05:45:28Z",
-      "source": "government_news",
-      "headline": "The Central Bank of Sri Lanka keeps  the Overnight Policy Rate (OPR) unchanged",
-      "thematic_category": "Macro/Economic Policy",
-      "top_industries_affected": [
-        "Foreign Employment",
-        "Financial Services"
-      ],
-      "impact_score": 0.0541
-    },
-    {
-      "id": "20de0eed-d975-4822-9e13-b958616f1e13",
-      "timestamp": "Mon, 27 Jan 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s Adani Controversy: Navigating Geopolitics, Transparency, and Sovereignty - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "thematic_category": "Regulatory & Governance",
-      "top_industries_affected": [
-        "Other"
-      ],
-      "impact_score": -0.0197
+      "impact_score": 0.036
     }
   ]
 }

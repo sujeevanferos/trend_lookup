@@ -56,15 +56,36 @@ def extract_rss(source):
 
     try:
         resp = requests.get(source["url"], timeout=10)
-        soup = BeautifulSoup(resp.text, "xml")
+        
+        # Try to parse with XML parser first, then fallbacks
+        soup = None
+        try:
+            soup = BeautifulSoup(resp.text, "xml")
+        except Exception as e:
+            print(f"Warning: XML parser failed ({e}), trying lxml...")
+            try:
+                soup = BeautifulSoup(resp.text, "lxml")
+            except Exception as e2:
+                print(f"Warning: lxml parser failed ({e2}), trying html.parser...")
+                soup = BeautifulSoup(resp.text, "html.parser")
 
         items = []
-        for item in soup.find_all("item"):
+        # Handle both case-sensitive (XML) and case-insensitive (HTML) tags
+        # In XML parser, tags are preserved. In HTML parser, they might be lowercased.
+        # We search for "item" which is standard RSS.
+        found_items = soup.find_all("item")
+        
+        for item in found_items:
+            # Helper to safely get text from a tag that might be missing
+            def get_text(tag_name):
+                t = item.find(tag_name)
+                return t.text.strip() if t else None
+
             items.append({
-                "title": item.title.text if item.title else None,
-                "url": item.link.text if item.link else None,
-                "summary": item.description.text if item.description else "",
-                "published": item.pubDate.text if item.pubDate else None,
+                "title": get_text("title"),
+                "url": get_text("link"),
+                "summary": get_text("description") or "",
+                "published": get_text("pubDate"),
                 "source": source["name"],
                 "fetched_at": datetime.utcnow().isoformat()
             })

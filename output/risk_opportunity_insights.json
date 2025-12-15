@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-12-12T05:47:25Z",
-  "total_insights": 254,
+  "generated_at": "2025-12-14T06:22:14Z",
+  "total_insights": 49,
   "insights": [
     {
-      "id": "00e01b50-624d-4ed7-83e2-e217c59243c8",
-      "timestamp": "Thu, 13 Feb 2025 08:00:00 GMT",
+      "id": "67608e1a-08ab-416d-b378-d1556c01a861",
+      "timestamp": "Sun, 14 Dec 2025 02:56:25 +0000",
       "source": "sri_lanka_news",
-      "headline": "Why is Sri Lanka's budget key to recovery from a severe financial crisis? - Reuters",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.8698,
+      "headline": "Adverse Weather : Death toll Rises to 643",
+      "thematic_category": "Extreme Weather Events",
+      "risk_score": 0.728,
       "risk_category": "High Risk",
       "risk_explanation": "Significant negative impact detected across multiple sectors.",
       "opportunity_score": 0.0,
@@ -19,386 +19,12 @@
       ]
     },
     {
-      "id": "593f3816-f6d5-44a6-aaf6-a643ca244843",
-      "timestamp": "Thu, 27 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka closes offices and schools as death toll from landslides and floods rises to 56 - AP News",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.822,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "23da2c3c-0d76-4d19-94df-9819c4dc3a17",
-      "timestamp": "Sun, 14 Sep 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Economic and Investment Summit 2025: Unlocking the Tourism Potential of Sri Lanka as a Top Destination in Asia - Travel And Tour World",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.7697,
-      "opportunity_category": "High Opportunity",
-      "opportunity_explanation": "Strong positive signals indicating significant growth potential.",
-      "top_affected_industries": [
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "efb100af-250f-4d2d-a72d-3dea5efbbdee",
-      "timestamp": "2025-12-12T05:45:36Z",
-      "source": "government_news",
-      "headline": "CCPI based headline inflation further accelerated as expected towards the target in October 2025",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.7417,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Construction",
-        "Financial Services",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "49f7c360-9a78-4f9b-aff4-cc8ee7f74eb4",
-      "timestamp": "Thu, 04 Dec 2025 14:20:05 GMT",
-      "source": "sri_lanka_news",
-      "headline": "South-East Asia and Sri Lanka are reeling from storms and flooding - The Economist",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.739,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "f3416b2f-0f4f-41e4-a864-65bb42228425",
-      "timestamp": "Thu, 11 Dec 2025 03:02:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "‘Not normal’: Climate crisis supercharged deadly monsoon floods in Asia - The Guardian",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.717,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "44d97282-d336-4265-bc41-b776bdca8685",
-      "timestamp": "Fri, 05 Dec 2025 13:19:31 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Deadly cyclone dents Sri Lanka's peak tourism season - Reuters",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.7131,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Tourism & Hospitality",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "1aa9de1d-baf9-4526-8cd7-dc9f4df9ab48",
-      "timestamp": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Cyclone Ditwah devastates all of Sri Lanka in unprecedented disaster - Le Monde.fr",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.7115,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "5efcb4c5-6daf-48d8-9d9c-c2e4391642d5",
-      "timestamp": "Wed, 15 Oct 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Tourism, Trade, and Economic Growth: Sri Lanka’s Strategic Push to Strengthen Relations with Belgium and the EU in the Indian Ocean Region - Travel And Tour World",
-      "thematic_category": "Trade & Foreign Relations",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.7101,
-      "opportunity_category": "High Opportunity",
-      "opportunity_explanation": "Strong positive signals indicating significant growth potential.",
-      "top_affected_industries": [
-        "Tourism & Hospitality",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "60d726e2-1135-4fdf-b352-25916ed91b31",
-      "timestamp": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s latest climate-driven floods expose flaws in disaster preparations – here’s what needs to change - The Conversation",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.708,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "70e91ee8-e461-4ac7-a8a5-fb4ea5b729e9",
-      "timestamp": "Thu, 11 Dec 2025 20:34:59 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Struggles in Aftermath of Devastating Cyclone - Human Rights Watch",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.7019,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "9a61d96c-b351-42a2-9964-df45fc9fc8cc",
-      "timestamp": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Weather tracker: Snowfall cuts power in Poland and flooding devastates Sri Lanka - The Guardian",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.6919,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "eecf76d7-f45b-45e9-a444-27c7cba82d1f",
-      "timestamp": "Thu, 27 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Heavy rains trigger landslides and floods in Sri Lanka, leaving more than 40 dead - AP News",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.6914,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "e9c10e2a-b843-4e41-9dd4-16f01cbd06e5",
-      "timestamp": "Thu, 27 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "More than 30 dead and 14 missing as heavy rains trigger landslides and floods in Sri Lanka - ABC News",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.6675,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "5151754a-74c5-4fee-95f0-dd633085bf06",
-      "timestamp": "Wed, 10 Dec 2025 23:05:47 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Increasing heavy rainfall and extreme flood heights in a warming climate threaten densely populated regions across Sri Lanka and the Malacca Strait - World Weather Attribution",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.6626,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "4c5c6f9c-5745-49a0-ac16-5b35a95a0f25",
-      "timestamp": "Fri, 12 Dec 2025 03:51:55 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Magnitude 6.7 earthquake hits Japan’s northeast region, tsunami advisory issued",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.6482,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "00efee5e-2629-436e-a229-2fe75327ede0",
-      "timestamp": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Floods and landslides – Cyclonic storm Ditwah November 2025 - World Health Organization (WHO)",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.6388,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "b54d245a-b6e3-462a-9371-a6357a5740d5",
-      "timestamp": "Fri, 05 Dec 2025 02:01:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Photos show devastating floods in Indonesia, Sri Lanka and Thailand - AP News",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.6369,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "bd40b41a-3fd0-4693-ad03-0e3105b5e45f",
-      "timestamp": "Thu, 11 Dec 2025 15:57:09 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka in 2025: Navigating Systemic Change, a Natural Disaster, and a Political Test for the NPP Government - South Asian Voices",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.6366,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "4fe9ee4a-3648-47d5-8eb2-a94913567250",
-      "timestamp": "Fri, 12 Dec 2025 04:59:46 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Death toll rises to 639; 211 still missing in Cyclone Ditwah",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.6364,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "76c90784-8767-40d5-9e4d-27a3fccf2528",
-      "timestamp": "2025-12-12T05:45:21Z",
-      "source": "government_news",
-      "headline": "CCPI based headline inflation remained unchanged in November 2025",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.6361,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Construction",
-        "Financial Services",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "6770ce3f-b240-4dea-a6a5-a554da31293c",
-      "timestamp": "Thu, 11 Dec 2025 12:28:25 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Flood-hit Indonesia, Sri Lanka braces for more rain - Latest news from Azerbaijan",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.6201,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "eca0ad57-fdbc-4213-8eec-538ac99a2453",
+      "id": "285b43ad-c873-4ee0-a241-00e4a071c8fc",
       "timestamp": "Sat, 29 Nov 2025 08:00:00 GMT",
       "source": "sri_lanka_news",
-      "headline": "As Cyclone Deaths Pass 150, Sri Lanka Is Overwhelmed by Rescue Demand - The New York Times",
+      "headline": "Death toll from floods and mudslides in Sri Lanka rises to 132, with 176 people still missing - AP News",
       "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.6198,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "f3eddfa5-8f50-45db-8435-03cf6366dfb2",
-      "timestamp": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Death toll passes 1,100 in devastating floods across Indonesia, Sri Lanka, Malaysia and Thailand – as it happened - The Guardian",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.6178,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "a4a44a99-b6ef-459b-9baf-486c9e963509",
-      "timestamp": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "More than 50 killed in deadly Sri Lanka floods: What we know so far - Al Jazeera",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.617,
+      "risk_score": 0.6997,
       "risk_category": "High Risk",
       "risk_explanation": "Significant negative impact detected across multiple sectors.",
       "opportunity_score": 0.0,
@@ -409,12 +35,12 @@
       ]
     },
     {
-      "id": "76683e18-5cad-4da6-9e6c-fbff3bd979d6",
-      "timestamp": "Thu, 11 Dec 2025 20:12:36 GMT",
+      "id": "f52a8b1e-ac80-42b2-b704-599e6bd0886f",
+      "timestamp": "Sun, 14 Dec 2025 03:43:49 GMT",
       "source": "sri_lanka_news",
-      "headline": "Cyclone Ditwah Causes Widespread Flooding Across Sri Lanka - JW.ORG",
+      "headline": "Sri Lanka’s Multi-Billion-Dollar Flood - Sri Lanka Guardian",
       "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.6158,
+      "risk_score": 0.6779,
       "risk_category": "High Risk",
       "risk_explanation": "Significant negative impact detected across multiple sectors.",
       "opportunity_score": 0.0,
@@ -425,64 +51,28 @@
       ]
     },
     {
-      "id": "fabbb9ef-7a57-4bfb-9499-6bee00c69a10",
-      "timestamp": "Fri, 30 May 2025 07:00:00 GMT",
+      "id": "863bccc7-2bed-4291-a87b-976fdf962274",
+      "timestamp": "Sun, 14 Dec 2025 03:13:54 +0000",
       "source": "sri_lanka_news",
-      "headline": "China, Sri Lanka sign new cooperation agreements, deepen economic ties - Global Times",
+      "headline": "Double Gold glory for Sri Lanka at Asian Youth Para Games",
       "thematic_category": "Market Trends",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
       "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.6071,
+      "opportunity_score": 0.5223,
       "opportunity_category": "High Opportunity",
       "opportunity_explanation": "Strong positive signals indicating significant growth potential.",
-      "top_affected_industries": [
-        "Tourism & Hospitality",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ]
-    },
-    {
-      "id": "fab4d739-1dbf-451e-acc5-56200e6f4a1d",
-      "timestamp": "Fri, 12 Dec 2025 01:13:50 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Vietnam offers free trade expo space to boost Sri Lanka exports",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.6061,
-      "opportunity_category": "High Opportunity",
-      "opportunity_explanation": "Strong positive signals indicating significant growth potential.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Textiles & Apparel",
-        "Tea"
-      ]
-    },
-    {
-      "id": "86bb5df6-a947-4b01-8534-96f4700b12a5",
-      "timestamp": "Wed, 10 Dec 2025 23:02:20 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Deadly November Asian storms 'supercharged' by climate change, researchers say - Reuters",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5913,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
       "top_affected_industries": [
         "Other"
       ]
     },
     {
-      "id": "0df443ef-22b8-49d6-a9f5-a7cb33b021e3",
+      "id": "022b5a46-ef93-4646-8f06-83abb6f233d8",
       "timestamp": "Wed, 03 Dec 2025 08:00:00 GMT",
       "source": "sri_lanka_news",
-      "headline": "Sri Lankans sift mud to unearth victims four days after deadly cyclone - Reuters",
+      "headline": "Sri Lanka: Tropical Cyclone Ditwah - Flash Update 4 (As of 3 December, 3 p.m. local time) - ReliefWeb",
       "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5863,
+      "risk_score": 0.5096,
       "risk_category": "High Risk",
       "risk_explanation": "Significant negative impact detected across multiple sectors.",
       "opportunity_score": 0.0,
@@ -493,958 +83,83 @@
       ]
     },
     {
-      "id": "d57d836a-53c9-41f2-9328-44dd97ad3394",
-      "timestamp": "2025-12-12T05:44:44Z",
-      "source": "government_news",
-      "headline": "Sri Lanka remains grateful for the support extended by the United States and other friendly nations following the recent disaster - President",
+      "id": "ce8a0aba-9e45-4a7b-ad59-19415bf26bcf",
+      "timestamp": "Sat, 13 Dec 2025 14:50:14 +0000",
+      "source": "sri_lanka_news",
+      "headline": "Cyclone Ditwah hits 13,698 Sri Lanka businesses, hotline given",
       "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5863,
+      "risk_score": 0.5001,
       "risk_category": "High Risk",
       "risk_explanation": "Significant negative impact detected across multiple sectors.",
       "opportunity_score": 0.0,
       "opportunity_category": "No Significant Opportunity",
       "opportunity_explanation": "No immediate opportunity indicators detected.",
       "top_affected_industries": [
-        "Foreign Employment"
+        "Other"
       ]
     },
     {
-      "id": "1620a9f4-9d8b-42f8-9b8d-f95afc78e42f",
-      "timestamp": "Fri, 12 Dec 2025 02:17:11 GMT",
+      "id": "948e0853-7c27-463b-b372-50f52dde246e",
+      "timestamp": "Thu, 24 Jul 2025 07:00:00 GMT",
       "source": "sri_lanka_news",
-      "headline": "Vietnam offers free trade expo space to boost Sri Lanka exports - EconomyNext",
+      "headline": "As Sri Lanka's economy pivots from tourism, it's well placed to benefit from global trade and geopolitical jostling – new research - Brunel University",
       "thematic_category": "Market Trends",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
       "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.5849,
-      "opportunity_category": "High Opportunity",
-      "opportunity_explanation": "Strong positive signals indicating significant growth potential.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Textiles & Apparel",
-        "IT & Telecommunications"
-      ]
-    },
-    {
-      "id": "7167062a-0279-4bbb-8b35-207fd68a1fa3",
-      "timestamp": "Sun, 30 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "‘Neighbourhoods buried under mud’: Sri Lanka floods death toll reaches 334 - Al Jazeera",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5809,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "0cace89b-913e-4bf6-91d5-1fd8d9e61acb",
-      "timestamp": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka braces for more flooding as Cyclone Ditwah claims 46 lives - Reuters",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5806,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "6cb95772-30cc-4ccf-a968-a4e890bfa1eb",
-      "timestamp": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka braced for more damage after torrential rain kills hundreds across Asia - The Guardian",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5719,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "f30f92dc-a657-431b-a470-4d481fa0f86e",
-      "timestamp": "Thu, 11 Dec 2025 14:28:47 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka remains grateful for the support extended by the United States and other friendly nations following the recent disaster – President - President Media Division",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5714,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "45bd510b-c11f-43ea-9ddc-deec30884ea4",
-      "timestamp": "Thu, 11 Dec 2025 00:25:36 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Devastated by Cyclone Ditwah, Sri Lanka is recovering - Youth Journalism International",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5709,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "ff3c44d8-de83-4fc4-b898-8e1adde23156",
-      "timestamp": "Thu, 20 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "From Crisis to Comeback: How Climate-Smart Growth Can Power Sri Lanka’s Recovery - World Bank Group",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.5702,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "27bd381f-5fd1-49d7-8fb9-8f401f0ba35c",
-      "timestamp": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka: Dozens dead as cyclone Ditwah hits country - DW",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5702,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "4d064246-f7e5-43d8-9233-5822ae77baaf",
-      "timestamp": "Fri, 05 Dec 2025 05:01:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s bloody past revealed in mass graves - CNN",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.5699,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "878f2087-041f-4dea-a1d2-db01480c3781",
-      "timestamp": "Fri, 17 Oct 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Flawed tax policies led to Sri Lanka’s economic meltdown: Report - News Arena India",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.5678,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "e8bc2ac3-e752-4834-a58a-c39eb865b502",
-      "timestamp": "Fri, 12 Dec 2025 00:45:19 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Video: Workers speak on Cyclone Ditwah disaster and government neglect in Sri Lanka - World Socialist Web Site",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5671,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "29b40b27-1f54-4d17-bb45-7f3ce3438b9a",
-      "timestamp": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "British women stranded by landslides in Sri Lankan mountains running out of food and water, daughter says - The Guardian",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5657,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "8752b39b-9ef3-4a2a-8bd3-125fd461091c",
-      "timestamp": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "‘We have to rebuild from scratch’: Sri Lankans relive the devastation of Cyclone Ditwah - The Guardian",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5547,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Construction"
-      ]
-    },
-    {
-      "id": "d9d066fc-93a4-41c1-825c-176b1a23e2fa",
-      "timestamp": "Mon, 07 Apr 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka fashion sector praises government response to US tariffs - Just Style",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.5498,
-      "opportunity_category": "High Opportunity",
-      "opportunity_explanation": "Strong positive signals indicating significant growth potential.",
-      "top_affected_industries": [
-        "Textiles & Apparel",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "5e0429d6-2c9f-417f-a327-8933744ce80c",
-      "timestamp": "Fri, 12 Dec 2025 05:30:50 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka has enough seed paddy to re-cultivate cyclone damaged fields",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5433,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "e01b0a95-0e75-4723-8ab3-f479aaa1a026",
-      "timestamp": "Sat, 29 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Over 100 Dead in Sri Lanka After Cyclone Ditwah - Newsweek",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5431,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "985faa91-2dab-4305-811d-6886f8743032",
-      "timestamp": "2025-12-12T05:45:02Z",
-      "source": "government_news",
-      "headline": "Momentum in Foreign Direct Investments Continue with USD 827 Million Foreign Capital Inflows During First Nine Months of 2025 –BOI",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.5359,
-      "opportunity_category": "High Opportunity",
-      "opportunity_explanation": "Strong positive signals indicating significant growth potential.",
-      "top_affected_industries": [
-        "Tourism & Hospitality",
-        "Financial Services",
-        "Construction"
-      ]
-    },
-    {
-      "id": "2f85ac47-5423-4875-b799-a059844ca5f3",
-      "timestamp": "Thu, 11 Dec 2025 13:01:09 GMT",
-      "source": "sri_lanka_news",
-      "headline": "UN seeks $35M in emergency funding to aid cyclone-hit Sri Lanka - TRT World",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5335,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "a3bf8af5-7b54-4741-b3b8-fad2b65513ec",
-      "timestamp": "Thu, 11 Dec 2025 17:05:01 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Global warming causing extreme rainfall that threatens Sri Lanka, Malacca Strait region: Report - Anadolu Ajansı",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5325,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "c063d79e-e822-4f69-acde-6a332abd6e5c",
-      "timestamp": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka: Local Christian communities offer aid to victims of Cyclone Ditwah - Vatican News",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5322,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "d1fa4ae4-b79e-45bb-9da2-390296ed7693",
-      "timestamp": "Sat, 29 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "A blue schoolbag in a mass grave. Sri Lanka’s bloody past is re-emerging from the soil - CNN",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.5272,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "7bb614a4-21c4-437f-a6e3-f62be677764d",
-      "timestamp": "2025-12-12T05:45:38Z",
-      "source": "government_news",
-      "headline": "Ministry of Finance, Planning and Economic Development",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.5271,
-      "opportunity_category": "High Opportunity",
-      "opportunity_explanation": "Strong positive signals indicating significant growth potential.",
-      "top_affected_industries": [
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "44675d3e-497f-4faa-b491-39d81db4acfb",
-      "timestamp": "Fri, 28 Nov 2025 06:18:51 GMT",
-      "source": "sri_lanka_news",
-      "headline": "November 28th, 2025 – Weather Alert – Cyclonic Storm ‘Ditwah’ – U.S. Embassy in Sri Lanka - U.S. Embassy in Sri Lanka (.gov)",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.527,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "d419f887-99b5-4b0f-947d-0706e355c9cb",
-      "timestamp": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Updates: 1,150 killed in floods in Indonesia, Sri Lanka, Thailand, Malaysia - Al Jazeera",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5253,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "93cb9891-527f-415d-9e85-d3315a517944",
-      "timestamp": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "More than 1,300 dead from floods in Indonesia, Sri Lanka and Thailand as rescue efforts intensify - AP News",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5236,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "0d20afb2-a556-4e7f-9deb-1ee08dbcb1c0",
-      "timestamp": "Thu, 11 Dec 2025 07:46:33 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Convention Bureau Launches Their Two-City Roadshow in Karachi and Lahore to Boost Tourism, Highlighting Leisure and MICE Opportunities - Travel And Tour World",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.5171,
-      "opportunity_category": "High Opportunity",
-      "opportunity_explanation": "Strong positive signals indicating significant growth potential.",
-      "top_affected_industries": [
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "8aeda986-e02c-4c6a-9032-1007bfaad91b",
-      "timestamp": "Thu, 11 Dec 2025 12:30:33 +0000",
-      "source": "sri_lanka_news",
-      "headline": "UN launches $35 million appeal for Sri Lanka cyclone relief",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5168,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "03e26391-41d0-4ff9-a403-628293f54e76",
-      "timestamp": "Fri, 05 Dec 2025 10:05:09 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka cyclone survivors afraid to go home, stuck in relief centres - Reuters",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.5026,
-      "risk_category": "High Risk",
-      "risk_explanation": "Significant negative impact detected across multiple sectors.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "78a1ecf3-cef9-4753-bf98-a277515913d0",
-      "timestamp": "Tue, 09 Sep 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "World Bank, Sri Lanka Team Up to Enhance Rural Economy - Mirage News",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.5025,
-      "opportunity_category": "High Opportunity",
-      "opportunity_explanation": "Strong positive signals indicating significant growth potential.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "13454f45-5520-4d3d-9024-505af8a44a82",
-      "timestamp": "2025-12-12T05:47:22Z",
-      "source": "government_news",
-      "headline": "Colombo Port City Economic Commission",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.4999,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "ca064931-98e1-4832-82c5-2a39b6e319a0",
-      "timestamp": "Thu, 11 Dec 2025 07:34:19 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Rebuilding housing post-Ditwah: Lessons from Sri Lanka’s tsunami experience",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4987,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Construction"
-      ]
-    },
-    {
-      "id": "a741e3af-e239-4ba1-8b5e-5ee9c9eb1e62",
-      "timestamp": "Thu, 11 Dec 2025 09:04:20 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Promotes Unique Travel Experiences At Holiday Expo Gent 2025 In Belgium, Drawing Attention From Netherlands, Luxembourg, Germany, And France - Travel And Tour World",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.4984,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "7a649630-fd36-4fc2-96ce-e3fb082bbba8",
-      "timestamp": "2025-12-12T05:45:19Z",
-      "source": "government_news",
-      "headline": "Relief Measures to Assist Individuals and Businesses affected by the Recent Cyclonic and Flood Disasters by Licensed Banks",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4957,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "5435e632-11ec-41e4-87e9-870a57ee28ac",
-      "timestamp": "Thu, 11 Dec 2025 10:39:28 GMT",
-      "source": "sri_lanka_news",
-      "headline": "IsraAID responding to Cyclone Ditwah in Sri Lanka - IsraAID",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4955,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "51319ff5-8036-48fc-86f1-8161f9643042",
-      "timestamp": "Fri, 12 Dec 2025 01:07:30 GMT",
-      "source": "sri_lanka_news",
-      "headline": "UN launches $35 million appeal for Sri Lanka cyclone relief - EconomyNext",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4939,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "e0e28e4b-0661-40b7-a562-9348ccb4cbab",
-      "timestamp": "20251210T023000Z",
-      "source": "sri_lanka_news",
-      "headline": "Chinese emergency humanitarian flood relief supplies arrive in Colombo",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4922,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "70ab37a7-0414-4ff4-8997-a08ffffe6ab3",
-      "timestamp": "2025-12-12T05:47:24Z",
-      "source": "government_news",
-      "headline": "Board of Investment of Sri Lanka",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.4921,
+      "opportunity_score": 0.4589,
       "opportunity_category": "Medium Opportunity",
       "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
       "top_affected_industries": [
         "Tourism & Hospitality",
-        "Foreign Employment",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "653762d4-4776-4be5-b762-9994acb1d767",
-      "timestamp": "Sun, 07 Dec 2025 06:01:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka issues landslide warnings as cyclone toll hits 627 - The Hindu",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4879,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
         "Foreign Employment"
       ]
     },
     {
-      "id": "aa532359-16fe-4d27-a399-2b5f153c749a",
-      "timestamp": "Fri, 12 Dec 2025 05:24:38 +0000",
+      "id": "993f2eee-6ab5-46a3-a0dd-e409b185629b",
+      "timestamp": "Sun, 14 Dec 2025 04:09:07 +0000",
       "source": "sri_lanka_news",
-      "headline": "Liquor license fees increased by 100%",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.4874,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "86e8556f-6365-4f64-90a5-0797161dd21d",
-      "timestamp": "Thu, 11 Dec 2025 16:34:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "U.N. to mobilise $35 million grant for cyclone-hit Sri Lanka - The Hindu",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4845,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Construction"
-      ]
-    },
-    {
-      "id": "fa2b8f47-bc8a-484c-bcdb-485e7c11ece0",
-      "timestamp": "Thu, 11 Dec 2025 13:42:23 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Humanitarian Priorities Plan - Cyclone Ditwa - ReliefWeb",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4789,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "3afafc87-2bf9-40c6-bfb2-6c900781fd25",
-      "timestamp": "Tue, 09 Dec 2025 11:05:37 GMT",
-      "source": "sri_lanka_news",
-      "headline": "EU releases €2.4 million flood response aid in Sri Lanka, Indonesia and Thailand - European Civil Protection and Humanitarian Aid Operations",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4529,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "165df161-909a-4991-ad4d-d647f379adfa",
-      "timestamp": "Tue, 07 Oct 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka's recovery remains incomplete, urgent reforms needed: World Bank - Business Standard",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.4502,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services",
-        "IT & Telecommunications"
-      ]
-    },
-    {
-      "id": "90783a49-1a55-4824-a591-81b374069e6e",
-      "timestamp": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Rescuers race in search for survivors after last week's floods in Indonesia, Sri Lanka and Thailand - AP News",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4495,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "45075e6e-b835-44e5-9f5d-1ef01c5dff5f",
-      "timestamp": "Wed, 08 Oct 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "World Bank Warns Sri Lanka’s Economic Recovery Remains Fragile - News On AIR",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.4475,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Construction",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "8526d4ba-7eec-441b-bd8f-b11749009f62",
-      "timestamp": "2025-12-12T05:46:39Z",
-      "source": "government_news",
-      "headline": "Department of Imports and Exports",
+      "headline": "‘Rebuilding Sri Lanka’ Fund receives over Rs. 3.4 billion in donations",
       "thematic_category": "Market Trends",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
       "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.4459,
+      "opportunity_score": 0.4079,
       "opportunity_category": "Medium Opportunity",
       "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "aff5e83e-a001-4e7c-8d99-7e67f1941a63",
-      "timestamp": "2025-12-12T05:47:20Z",
-      "source": "government_news",
-      "headline": "Central Bank of Sri Lanka",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.4456,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "d616bb2a-735c-427c-bcf3-a39425a2e56e",
-      "timestamp": "Thu, 11 Dec 2025 16:15:09 GMT",
-      "source": "sri_lanka_news",
-      "headline": "IsraAID sending team to Sri Lanka to help recovery in wake of Cyclone Ditwah - JNS.org",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.445,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "eaa8c361-199c-45af-8ff9-ed0247df535e",
-      "timestamp": "2025-12-12T05:44:50Z",
-      "source": "government_news",
-      "headline": "‘Beyond Recovery’ Pilot Project Launched in Badulla to Support Mental Wellbeing of Cyclone Ditwah-Affected Communities",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4442,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "3677edfc-b9c8-4bf1-9ed8-26643ab93cca",
-      "timestamp": "Thu, 31 Jul 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Bank of Ceylon is Sri Lanka’s top brand in 2025 - Brand Finance",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.4438,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "b2954af4-0fc8-490e-9eba-d8d1e45ee0de",
-      "timestamp": "2025-12-12T05:46:41Z",
-      "source": "government_news",
-      "headline": "Department of Census and Statistics",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.4392,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "bf9c4f47-45b7-44d6-8224-1895970931d0",
-      "timestamp": "Thu, 11 Dec 2025 06:22:28 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Reading University student's relatives evacuated in Sri Lanka floods - BBC",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4345,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "d6e52d8c-9db0-44ea-8d7c-0ab7426abecc",
-      "timestamp": "Thu, 11 Dec 2025 18:30:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "India: Kerala Proves Poverty Isn’t Destiny - Sri Lanka Guardian",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.4306,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "e978091c-f00e-42bd-9599-bdd43b902e8d",
-      "timestamp": "Thu, 11 Dec 2025 15:31:14 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Cabinet green light to obtain a grant from the Asia Pacific Disaster Response Fund for post – disaster relief and rehabilitation activities - The Island.lk",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.4301,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
       "top_affected_industries": [
         "Construction",
-        "Tea",
         "Foreign Employment"
       ]
     },
     {
-      "id": "dd4ff763-3ad8-48fa-a534-8da30871198e",
-      "timestamp": "Thu, 11 Dec 2025 06:40:00 GMT",
+      "id": "d108cd0b-9613-441d-9cf9-ef2ccdbeb77d",
+      "timestamp": "Sun, 14 Dec 2025 01:12:04 GMT",
       "source": "sri_lanka_news",
-      "headline": "Photo shows overflowing Indian river, not floodwaters in Sri Lanka - Yahoo",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.43,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "3c87f73a-2c42-4b3f-9fbd-16afe87521d4",
-      "timestamp": "2025-12-12T05:46:18Z",
-      "source": "government_news",
-      "headline": "Department of Trade and Investment Policies",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.4195,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "6520bfdd-1a5c-4a9b-968e-a1f727e329ce",
-      "timestamp": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka and Indonesia deploy militaries as Asia floods death toll passes 1,100 - The Guardian",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.4096,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "948084b1-5f64-4059-b11e-2ce34fd6cdc7",
-      "timestamp": "Fri, 12 Dec 2025 04:07:49 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Colombo diplomats make personal contribution to the ‘Rebuilding Sri Lanka’ Fund",
+      "headline": "Embark on a Spiritual New Year Journey: IRCTC’s Sri Lanka Ramayana Tour from Chandigarh to Colombo, Kandy, Nuwara Eliya – Updates and Details for Passengers - Travel And Tour World",
       "thematic_category": "Corporate/Company News",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
       "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.4059,
+      "opportunity_score": 0.359,
+      "opportunity_category": "Medium Opportunity",
+      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
+      "top_affected_industries": [
+        "Tourism & Hospitality",
+        "Foreign Employment",
+        "Transportation & Logistics"
+      ]
+    },
+    {
+      "id": "cfbf7957-eb6b-4aa6-83b2-2386a502e963",
+      "timestamp": "Sun, 14 Dec 2025 03:45:11 +0000",
+      "source": "sri_lanka_news",
+      "headline": "Oshini leads Under 13 Girls’ chess rankings",
+      "thematic_category": "Market Trends",
+      "risk_score": 0.0,
+      "risk_category": "No Significant Risk",
+      "risk_explanation": "No immediate risk indicators detected.",
+      "opportunity_score": 0.2785,
       "opportunity_category": "Medium Opportunity",
       "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
       "top_affected_industries": [
@@ -1452,215 +167,67 @@
       ]
     },
     {
-      "id": "c82e20f0-1d22-49fa-a5b3-c86f89f12c8d",
-      "timestamp": "2025-12-12T05:46:05Z",
-      "source": "government_news",
-      "headline": "Ministry of Finance",
+      "id": "a451adbf-085d-4a3b-8a59-33609c80b417",
+      "timestamp": "Sun, 14 Dec 2025 05:27:27 GMT",
+      "source": "sri_lanka_news",
+      "headline": "Indian Army steps up efforts to restore connectivity in Sri Lanka, begins preparatory works at Chilaw and - The Economic Times",
       "thematic_category": "Market Trends",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
       "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3971,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "a4ee09b2-f7a6-420b-953a-93b2ce2d5a8b",
-      "timestamp": "2025-12-12T05:46:24Z",
-      "source": "government_news",
-      "headline": "Department of Development Finance",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3947,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "a7f23557-16cb-44de-a8a0-0ba29631a39a",
-      "timestamp": "2025-12-12T05:45:04Z",
-      "source": "government_news",
-      "headline": "Sri Lankan Black Tea Sets Guinness World Record in Japan",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3918,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Tea",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "32233fe7-3f7a-4031-847b-ba2d31a786e7",
-      "timestamp": "2025-12-12T05:46:04Z",
-      "source": "government_news",
-      "headline": "Photo Gallery",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3863,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "64fd376e-b2c1-49b5-a488-85eec54d3883",
-      "timestamp": "2025-12-12T05:45:16Z",
-      "source": "government_news",
-      "headline": "Central Bank of Sri Lanka Conducts the International Research Symposium - 2025",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3854,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Processing of Commodities",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "01ce4f94-c55a-40f6-9ed1-d1fe9f56cc89",
-      "timestamp": "2025-12-12T05:46:26Z",
-      "source": "government_news",
-      "headline": "Department of Public Enterprises",
-      "thematic_category": "Regulatory & Governance",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3825,
+      "opportunity_score": 0.2699,
       "opportunity_category": "Medium Opportunity",
       "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
       "top_affected_industries": [
         "Construction",
-        "Tourism & Hospitality",
+        "Foreign Employment",
         "IT & Telecommunications"
       ]
     },
     {
-      "id": "83cdc947-86da-472e-8e6e-069d7edf2635",
-      "timestamp": "Thu, 11 Dec 2025 10:34:00 GMT",
+      "id": "cacefb19-b949-4039-a79e-3167adf955b5",
+      "timestamp": "Sun, 14 Dec 2025 02:10:13 +0000",
       "source": "sri_lanka_news",
-      "headline": "The best beach hotels in Sri Lanka - The Telegraph",
+      "headline": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
       "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.367,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "4f543065-be53-4058-a2e0-76f81d71fb79",
-      "timestamp": "2025-12-12T05:44:42Z",
-      "source": "government_news",
-      "headline": "Memon Association of Sri Lanka Donates to ‘Rebuilding Sri Lanka’ Fund",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3666,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
+      "risk_score": 0.2542,
+      "risk_category": "Medium Risk",
+      "risk_explanation": "Moderate negative impact with potential operational challenges.",
+      "opportunity_score": 0.0,
+      "opportunity_category": "No Significant Opportunity",
+      "opportunity_explanation": "No immediate opportunity indicators detected.",
       "top_affected_industries": [
         "Other"
       ]
     },
     {
-      "id": "8d4a7961-1845-4006-8924-7a337caacd8e",
-      "timestamp": "2025-12-12T05:46:20Z",
-      "source": "government_news",
-      "headline": "Department of Information Technology Management",
-      "thematic_category": "ICT & Digital Services",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3666,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "IT & Telecommunications"
-      ]
-    },
-    {
-      "id": "84c6346b-3560-4ee5-b83e-704d8d35ae03",
-      "timestamp": "2025-12-12T05:46:28Z",
-      "source": "government_news",
-      "headline": "Department of Project Management and Monitoring",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3662,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Construction"
-      ]
-    },
-    {
-      "id": "db9253a2-73f2-4cae-96b6-d6eb8dc90ba7",
-      "timestamp": "2025-12-12T05:45:50Z",
-      "source": "government_news",
-      "headline": "Minister of Finance",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3655,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "9674557f-e1ee-46ec-8e05-21420a7c1c34",
-      "timestamp": "2025-12-12T05:45:58Z",
-      "source": "government_news",
-      "headline": "Banks and Other Institutions",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3574,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "13c47188-52c8-4868-bcdf-3dab1d8d3244",
-      "timestamp": "Thu, 11 Dec 2025 02:39:34 +0000",
+      "id": "b8e54257-91ac-4b38-8b08-3f555883a6c3",
+      "timestamp": "Sun, 14 Dec 2025 02:21:59 +0000",
       "source": "sri_lanka_news",
-      "headline": "Vietnam sees potential in Sri Lanka for logistics and warehouse businesses",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3527,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
+      "headline": "‘A nightmare’ – The battle over Warner Bros is turning Hollywood upside down",
+      "thematic_category": "Corporate/Company News",
+      "risk_score": 0.223,
+      "risk_category": "Medium Risk",
+      "risk_explanation": "Moderate negative impact with potential operational challenges.",
+      "opportunity_score": 0.0,
+      "opportunity_category": "No Significant Opportunity",
+      "opportunity_explanation": "No immediate opportunity indicators detected.",
+      "top_affected_industries": [
+        "Other"
+      ]
+    },
+    {
+      "id": "305180e2-d0dc-49c2-a63e-cf4261dc645d",
+      "timestamp": "Sun, 14 Dec 2025 04:04:00 GMT",
+      "source": "sri_lanka_news",
+      "headline": "U.S. Intercepts China-Linked Iranian Cargo Ship Off Sri Lanka - WION",
+      "thematic_category": "Corporate/Company News",
+      "risk_score": 0.1596,
+      "risk_category": "Low Risk",
+      "risk_explanation": "Minor negative signals, monitoring recommended.",
+      "opportunity_score": 0.0,
+      "opportunity_category": "No Significant Opportunity",
+      "opportunity_explanation": "No immediate opportunity indicators detected.",
       "top_affected_industries": [
         "Transportation & Logistics",
         "Foreign Employment",
@@ -1668,1228 +235,15 @@
       ]
     },
     {
-      "id": "b0316390-cb1e-464d-96e8-a26de4b4ec3d",
-      "timestamp": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "id": "4873df3a-985c-4d54-b826-6109b586a787",
+      "timestamp": "Fri, 31 Oct 2025 07:00:00 GMT",
       "source": "sri_lanka_news",
-      "headline": "Sri Lankan airlines continue to suffer losses as government look to restructure debt - Tamil Guardian",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.3523,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "ce0bd712-6d9b-420b-ae58-e764b14f81a2",
-      "timestamp": "2025-12-12T05:46:12Z",
-      "source": "government_news",
-      "headline": "Department of External Resources",
+      "headline": "India hands over multi-ethnic trilingual school to Lankan government - ET Education",
       "thematic_category": "Market Trends",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
       "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3503,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
-        "IT & Telecommunications"
-      ]
-    },
-    {
-      "id": "9d21acd0-9740-4df7-a690-772bf012d4d7",
-      "timestamp": "2025-12-12T05:46:29Z",
-      "source": "government_news",
-      "headline": "Department of National Planning",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3492,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "de19f5f1-8517-479b-9383-1989bc810b2b",
-      "timestamp": "2025-12-12T05:46:07Z",
-      "source": "government_news",
-      "headline": "Department of Fiscal Policy",
-      "thematic_category": "Regulatory & Governance",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3491,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "0ac16b04-ea41-4b90-a8c3-611e67c0e62f",
-      "timestamp": "Fri, 12 Dec 2025 01:10:32 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka recognizes Omega Line as exporter of the year, Akbar Brothers top forex earner",
-      "thematic_category": "Corporate/Company News",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3473,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services",
-        "Tea"
-      ]
-    },
-    {
-      "id": "3018e33c-bcc7-4101-b1a8-007243ea2e11",
-      "timestamp": "2025-12-12T05:47:19Z",
-      "source": "government_news",
-      "headline": "Public Administration",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3454,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "9131c89b-69c2-48bd-9f3e-cd46e9383be2",
-      "timestamp": "2025-12-12T05:44:47Z",
-      "source": "government_news",
-      "headline": "President’s Fund Supports Full Renovation of Wijewardane Children’s Home in Panadura",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3428,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "72b04e0e-b0d8-4924-bb83-f61dcc9114d9",
-      "timestamp": "2025-12-12T05:46:37Z",
-      "source": "government_news",
-      "headline": "Department of Valuation",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3403,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "93f7e5ca-9e3d-4c4f-ab7f-6676549268fc",
-      "timestamp": "Wed, 07 May 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "World Bank approves $1 billion loan to Sri Lanka for economic recovery - The Times of India",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3392,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "9a5ccb39-de0f-473d-a2cc-ae37bb14cb4c",
-      "timestamp": "2025-12-12T05:46:13Z",
-      "source": "government_news",
-      "headline": "Department of Public Finance",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3388,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "d7a9509a-8436-4cc9-81f3-c95cc0522747",
-      "timestamp": "2025-12-12T05:47:25Z",
-      "source": "government_news",
-      "headline": "elysiancrest.com",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3355,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Tourism & Hospitality",
-        "Foreign Employment",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "064909ca-f258-48d3-948a-43deae4f92a7",
-      "timestamp": "2025-12-12T05:47:00Z",
-      "source": "government_news",
-      "headline": "Contact us",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3348,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "4f398e43-8415-4792-82bb-d7c466d365ed",
-      "timestamp": "2025-12-12T05:46:10Z",
-      "source": "government_news",
-      "headline": "Department of Management Services",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3242,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "63567642-f2d0-4d5e-8053-d62d968ac2ea",
-      "timestamp": "2025-12-12T05:47:14Z",
-      "source": "government_news",
-      "headline": "Presidential Secretariat",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3188,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "aa49d92a-c647-45b0-8e6d-bb310589f413",
-      "timestamp": "2025-12-12T05:46:33Z",
-      "source": "government_news",
-      "headline": "Department of Inland Revenue",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3184,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "3743aef4-b5f7-4600-a73d-dfd2bea0de50",
-      "timestamp": "2025-12-12T05:46:23Z",
-      "source": "government_news",
-      "headline": "Department of Management Audit",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3147,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "b3f43584-28b5-4016-994a-0aeacce0554c",
-      "timestamp": "2025-12-12T05:46:21Z",
-      "source": "government_news",
-      "headline": "Department of Legal Affairs",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3126,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "f2a5b428-d682-42b9-bcca-e51292894940",
-      "timestamp": "2025-12-12T05:47:17Z",
-      "source": "government_news",
-      "headline": "Parliament of Sri Lanka",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3119,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "730186b3-8004-4c23-a044-822d46021fb7",
-      "timestamp": "Thu, 11 Dec 2025 00:23:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "WFP scales up its emergency response in Sri Lanka - The Island.lk",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.3118,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "8f61905a-3971-44de-9424-06fdfd9f6ad1",
-      "timestamp": "Fri, 12 Dec 2025 04:53:37 +0000",
-      "source": "sri_lanka_news",
-      "headline": "People’s Leasing and Finance contribute Rs. 10 M to “Rebuilding Sri Lanka”",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3097,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "b11421f0-721f-444b-8de1-af3bb6399626",
-      "timestamp": "2025-12-12T05:47:09Z",
-      "source": "government_news",
-      "headline": "Budget Estimates",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.3028,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Tourism & Hospitality",
-        "Construction"
-      ]
-    },
-    {
-      "id": "f20b32ee-472a-4be3-9b11-d74872717503",
-      "timestamp": "2025-12-12T05:46:16Z",
-      "source": "government_news",
-      "headline": "Department of State Accounts",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.3003,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "09baf252-9a60-472a-b8ef-dd327ef3dbf9",
-      "timestamp": "Tue, 09 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Mary Kay Builds 11th Preschool in Sri Lanka - directsellingnews.com",
-      "thematic_category": "Corporate/Company News",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2954,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Construction"
-      ]
-    },
-    {
-      "id": "030cb148-9b4b-40c9-9035-3ccf42fdee94",
-      "timestamp": "2025-12-12T05:45:56Z",
-      "source": "government_news",
-      "headline": "Ministry and Departments",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2949,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "87abab57-a0a5-45d3-93db-221f433c447a",
-      "timestamp": "Fri, 12 Dec 2025 04:18:28 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Bulgarian government resigns after weeks of street protests",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.2943,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "56973f1d-9ef5-486a-a627-5251a20f403f",
-      "timestamp": "Thu, 11 Dec 2025 09:58:17 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka offers UDA land in Colombo for mixed development project",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2932,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Construction",
-        "Tourism & Hospitality",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "999ff068-8a68-4974-90a8-79fe6e00cfd2",
-      "timestamp": "2025-12-12T05:46:58Z",
-      "source": "government_news",
-      "headline": "RTI / Internal Affairs Unit",
-      "thematic_category": "Regulatory & Governance",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2902,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "02c2b94d-53a0-4ac8-bdd5-6bc66f3fcb07",
-      "timestamp": "Tue, 25 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "The dangerous rise of Buddhist extremism: ‘Attaining nirvana can wait’ - The Guardian",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.2897,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "78860eb2-3d78-4da3-8abb-1c3984254065",
-      "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Achieves Record-Breaking Surge in Workers’ Remittances and Tourism Revenue Driving Unstoppable Economic Growth 2025 - Travel And Tour World",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2835,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Tourism & Hospitality",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "0dd21692-5e05-4b0f-9c29-3b052ae5ea5c",
-      "timestamp": "2025-12-12T05:44:52Z",
-      "source": "government_news",
-      "headline": "Malwatta, Asgiriya Deputy Registrars and Diyawadana Nilame Meet President",
-      "thematic_category": "Regulatory & Governance",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2764,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "6b33f1d8-6f72-46ca-aa35-4e4db9260300",
-      "timestamp": "2025-12-12T05:45:08Z",
-      "source": "government_news",
-      "headline": "Monetary Policy Review - No. 5 of 2025",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2736,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ]
-    },
-    {
-      "id": "9cabc61d-c89b-44e8-b8fa-3d28386fbc80",
-      "timestamp": "2025-12-12T05:45:12Z",
-      "source": "government_news",
-      "headline": "Monetary Policy Review - No. 3 of 2025",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2721,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ]
-    },
-    {
-      "id": "9be818fb-a194-4e06-bc00-b357e8c85e0f",
-      "timestamp": "2025-12-12T05:45:14Z",
-      "source": "government_news",
-      "headline": "Monetary Policy Review - No. 2 of 2025",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2719,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ]
-    },
-    {
-      "id": "3cb70933-593a-40f0-9be5-9a455ac46779",
-      "timestamp": "2025-12-12T05:46:09Z",
-      "source": "government_news",
-      "headline": "Department of National Budget",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2716,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "d452c26c-609b-45b8-b477-ad0264ded49a",
-      "timestamp": "2025-12-12T05:45:48Z",
-      "source": "government_news",
-      "headline": "Purview and Function",
-      "thematic_category": "Regulatory & Governance",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2715,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Tourism & Hospitality",
-        "IT & Telecommunications",
-        "Transportation & Logistics"
-      ]
-    },
-    {
-      "id": "61135855-33f8-4728-a98d-f1744d064749",
-      "timestamp": "2025-12-12T05:45:10Z",
-      "source": "government_news",
-      "headline": "Monetary Policy Review - No. 4 of 2025",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2696,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ]
-    },
-    {
-      "id": "c327a77a-e3cd-43dd-ab42-6ab6b12fa24c",
-      "timestamp": "2025-12-12T05:45:06Z",
-      "source": "government_news",
-      "headline": "Monetary Policy Review - No. 6 of 2025",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2693,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ]
-    },
-    {
-      "id": "71b8aace-c14a-4a36-987f-d99e49bfe433",
-      "timestamp": "2025-12-12T05:46:15Z",
-      "source": "government_news",
-      "headline": "Department of Treasury Operations",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2688,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "b4c8df4f-426e-41f2-a45d-d53b1173cc22",
-      "timestamp": "Wed, 10 Dec 2025 19:32:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "FCCISL presents five strategic budget proposals aimed at accelerating Sri Lanka’s economic recovery - dailynews.lk",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2656,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "4f43d220-acd1-4c62-96e3-040930dc98d3",
-      "timestamp": "Thu, 11 Dec 2025 19:58:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Focus must shift on accelerating GDP growth at over 7% pace – WB - dailynews.lk",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2646,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "cb1f5e0e-28c3-42ab-b0ed-0b2a5054b42c",
-      "timestamp": "Thu, 11 Dec 2025 10:23:27 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka transfers Trincomalee land meant for vocational university to tourism project",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2625,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "2e34e335-c9fa-40b9-9f6c-143e6350a331",
-      "timestamp": "2025-12-12T05:45:51Z",
-      "source": "government_news",
-      "headline": "Deputy Ministers",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2623,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
-        "IT & Telecommunications"
-      ]
-    },
-    {
-      "id": "00e40b7a-d7ac-4163-9cf8-5178bf3c0989",
-      "timestamp": "2025-12-12T05:46:34Z",
-      "source": "government_news",
-      "headline": "Sri Lanka Custom",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2618,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
-        "Processing of Commodities"
-      ]
-    },
-    {
-      "id": "8c488f17-ee58-4116-9a32-8cc45256bc57",
-      "timestamp": "2025-12-12T05:47:12Z",
-      "source": "government_news",
-      "headline": "Sitemap",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2597,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "a3f92623-e2b7-4466-be42-3adb1d54d043",
-      "timestamp": "Mon, 03 Feb 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Debt-stricken Sri Lanka marks independence day as new president pledges to rebuild the country - AP News",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.247,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Construction"
-      ]
-    },
-    {
-      "id": "d23559d8-e685-4b39-a261-22a1e18f579c",
-      "timestamp": "2025-12-12T05:45:59Z",
-      "source": "government_news",
-      "headline": "History",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2453,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "726f7fed-ddd0-4a87-add2-21ee7102aa02",
-      "timestamp": "Fri, 12 Dec 2025 03:44:22 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s Shameless Leader and His Lilliputian Regime - Sri Lanka Guardian",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.2381,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "bffbf7e8-f323-4127-bc99-acdfe5ac4e8f",
-      "timestamp": "2025-12-12T05:45:23Z",
-      "source": "government_news",
-      "headline": "External Sector Performance – October 2025",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2378,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
-        "IT & Telecommunications"
-      ]
-    },
-    {
-      "id": "e48926c7-86d5-4bc9-9806-4c57a0c29fa2",
-      "timestamp": "20251208T144500Z",
-      "source": "sri_lanka_news",
-      "headline": "પહેલો સગો પાડોશી ! દિતવાહ વાવાઝોડાથી અસરગ્રસ્ત શ્રીલંકાની મદદ માટે ભારતે વધુ 4 યુદ્ધ જહાજ મોકલ્યા",
-      "thematic_category": "Corporate/Company News",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.234,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Construction",
-        "Tourism & Hospitality",
-        "Tea"
-      ]
-    },
-    {
-      "id": "dc98e485-4a23-4648-81e6-75635b39deb3",
-      "timestamp": "2025-12-12T05:47:15Z",
-      "source": "government_news",
-      "headline": "Prime Minister’s Office",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2331,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "aaf2ba5f-92da-472a-a61c-f125e658abe6",
-      "timestamp": "2025-12-12T05:46:55Z",
-      "source": "government_news",
-      "headline": "Events",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2329,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "d7f82de9-6387-479c-8ab1-5d540ba72d7b",
-      "timestamp": "2025-12-12T05:46:01Z",
-      "source": "government_news",
-      "headline": "Economic Phases",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.2282,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Tourism & Hospitality",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "990ba7b2-7717-4e17-9f78-bad07809cefe",
-      "timestamp": "Fri, 12 Dec 2025 02:41:57 GMT",
-      "source": "sri_lanka_news",
-      "headline": "President AKD – Under Secretary Allison Hooker meet - Sri Lanka Mirror",
-      "thematic_category": "Regulatory & Governance",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2273,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "52ffa447-abf3-4d76-b096-0c59c493e103",
-      "timestamp": "2025-12-12T05:45:34Z",
-      "source": "government_news",
-      "headline": "Public Consultation on Amendments to the Finance Business Act, No.42 of 2011 (FBA)",
-      "thematic_category": "Regulatory & Governance",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2263,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment",
-        "Processing of Commodities"
-      ]
-    },
-    {
-      "id": "8699fe8b-82fd-4551-9d80-796ae7334e2e",
-      "timestamp": "Fri, 06 Jun 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Will Sri Lanka and China push for FTA or just engage in economic diplomacy? - South China Morning Post",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2256,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
-        "Construction"
-      ]
-    },
-    {
-      "id": "f029a0d3-48b9-4a85-b2d1-da619f60b55a",
-      "timestamp": "2025-12-12T05:46:44Z",
-      "source": "government_news",
-      "headline": "Acts, Gazettes, Circulars & Guidelines",
-      "thematic_category": "Regulatory & Governance",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2256,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "7ea5b415-32e3-43f2-a047-f11409772664",
-      "timestamp": "2025-12-12T05:46:50Z",
-      "source": "government_news",
-      "headline": "Newsroom",
-      "thematic_category": "Corporate/Company News",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2232,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "9d778d75-d877-4aa9-a01b-c21c7748c851",
-      "timestamp": "2025-12-12T05:45:40Z",
-      "source": "government_news",
-      "headline": "සිංහ​ල",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2223,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "accb6244-f169-4523-992c-ece67f06ee39",
-      "timestamp": "2025-12-12T05:45:43Z",
-      "source": "government_news",
-      "headline": "தமிழ்",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2223,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "c3b68236-7fa6-41dc-8537-4df609d33a91",
-      "timestamp": "2025-12-12T05:45:46Z",
-      "source": "government_news",
-      "headline": "About Us",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2197,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Tourism & Hospitality",
-        "Foreign Employment",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "b98c82b7-bf91-47fe-88d5-c666b1921bd9",
-      "timestamp": "Wed, 12 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka players ask to leave Pakistan after bombing, board says no - Reuters",
-      "thematic_category": "Corporate/Company News",
-      "risk_score": 0.2187,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "5c243e31-41ab-4de7-af6e-493aad7e6434",
-      "timestamp": "2025-12-12T05:46:02Z",
-      "source": "government_news",
-      "headline": "Heads of Treasury Departments",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2176,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "01ceb2b1-cb81-4937-b2e0-c04361f401b7",
-      "timestamp": "Fri, 12 Dec 2025 04:36:11 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka rupee marginally stronger, bond yields drop",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2155,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "5a4de28e-3363-4511-a450-65e3d6a953cc",
-      "timestamp": "Thu, 11 Dec 2025 01:26:24 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Federal Reserve cuts rates despite above target inflation in dual mandate confusion",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.2122,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "c833e045-cb5c-4e11-b4b1-1ddb23704a1c",
-      "timestamp": "Thu, 27 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Behind Sri Lanka’s ‘fish rain’ lies a web of migrations now blocked by rising dams - Mongabay",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.2121,
-      "risk_category": "Medium Risk",
-      "risk_explanation": "Moderate negative impact with potential operational challenges.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "10048185-dc6f-46e1-b046-db4b35846ed5",
-      "timestamp": "2025-12-12T05:46:42Z",
-      "source": "government_news",
-      "headline": "Public Debt Management Office",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2106,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "05d12fa3-82a1-4bb2-99ee-2bec90f5a21d",
-      "timestamp": "2025-12-12T05:45:54Z",
-      "source": "government_news",
-      "headline": "Deputy Secretaries to the Treasury",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.209,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "a028e42f-b9b6-48b9-9bd5-31089aeaebc2",
-      "timestamp": "2025-12-12T05:46:49Z",
-      "source": "government_news",
-      "headline": "Guidelines",
-      "thematic_category": "Regulatory & Governance",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2087,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "9a996e74-e20a-4e32-9306-8430a55ae9ba",
-      "timestamp": "2025-12-12T05:47:01Z",
-      "source": "government_news",
-      "headline": "Contact Details",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2076,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "6841cd1e-3394-4eb2-9105-daf47f16b187",
-      "timestamp": "Thu, 11 Dec 2025 09:17:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Supreme Court accords ceremonial welcome to Sri Lankan Chief Justice Preethi Padman Surasena - The Hindu",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2066,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "f6a1d490-5534-4ea8-bb7a-22a5408078f8",
-      "timestamp": "2025-12-12T05:44:59Z",
-      "source": "government_news",
-      "headline": "Sri Lanka Customs Records Historic Rs. 27.7 Billion in Single-Day Revenue; Annual Target to Be Achieved Next Week",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2046,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Processing of Commodities"
-      ]
-    },
-    {
-      "id": "cb99a5f8-37aa-4683-9f25-4eabaa12309f",
-      "timestamp": "2025-12-12T05:46:36Z",
-      "source": "government_news",
-      "headline": "Department of Excise",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.2031,
-      "opportunity_category": "Medium Opportunity",
-      "opportunity_explanation": "Moderate positive indicators suggesting favorable conditions.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "9e178f08-971b-4c03-a975-f7587f23b229",
-      "timestamp": "2025-12-12T05:45:53Z",
-      "source": "government_news",
-      "headline": "Secretary to the Treasury",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1987,
+      "opportunity_score": 0.1544,
       "opportunity_category": "Low Opportunity",
       "opportunity_explanation": "Minor positive signals, potential for small gains.",
       "top_affected_industries": [
@@ -2897,82 +251,12 @@
       ]
     },
     {
-      "id": "50d77bbb-a2c7-4251-b76c-c96dbe72d9a0",
-      "timestamp": "2025-12-12T05:47:04Z",
-      "source": "government_news",
-      "headline": "Secretary to the treasury",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1987,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "b9c3312f-a560-42ca-b310-683ac3fce2e6",
-      "timestamp": "2025-12-12T05:45:25Z",
-      "source": "government_news",
-      "headline": "Sri Lanka PMI - Construction continued to expand in October 2025",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1964,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Construction",
-        "Foreign Employment",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "07d3bbff-0867-4d4f-850b-5514de2c25fe",
-      "timestamp": "2025-12-12T05:46:53Z",
-      "source": "government_news",
-      "headline": "Statements & Remarks",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1947,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "a617792b-5181-4a38-aab5-973936b8c460",
-      "timestamp": "2025-12-12T05:45:32Z",
-      "source": "government_news",
-      "headline": "SL Purchasing Managers’ Index (PMI) – October 2025",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1946,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Construction",
-        "Tourism & Hospitality",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "f690cf32-2757-4477-b98f-c4c97fa860e5",
-      "timestamp": "Thu, 11 Dec 2025 12:21:19 GMT",
+      "id": "f1f2112f-9c9c-4dc4-b934-251020deb5aa",
+      "timestamp": "Sun, 14 Dec 2025 03:04:32 +0000",
       "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s Muslims ‘increasingly targeted by Tamil Hindu extremist groups’ - 5Pillars",
+      "headline": "Angry fans throw chairs and bottles at Messi event in India",
       "thematic_category": "Market Trends",
-      "risk_score": 0.188,
+      "risk_score": 0.154,
       "risk_category": "Low Risk",
       "risk_explanation": "Minor negative signals, monitoring recommended.",
       "opportunity_score": 0.0,
@@ -2983,433 +267,15 @@
       ]
     },
     {
-      "id": "1f748b5c-0d5e-4136-a94a-d85f556f64f9",
-      "timestamp": "Fri, 12 Dec 2025 00:00:16 GMT",
+      "id": "f8898f2c-4b0e-4b5c-9481-7f9791996469",
+      "timestamp": "Sun, 14 Dec 2025 05:00:28 +0000",
       "source": "sri_lanka_news",
-      "headline": "Why Sri Lanka needs a National Budget Performance and Evaluation Office - The Island.lk",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1849,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "653c1522-0123-453c-9591-d6cc65aa92fd",
-      "timestamp": "Thu, 11 Dec 2025 10:29:43 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka awards 50MW wind plants to Vidullanka, Windforce",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1827,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Construction"
-      ]
-    },
-    {
-      "id": "ffd1dd40-7b87-4404-b20f-213316c6c987",
-      "timestamp": "2025-12-12T05:47:03Z",
-      "source": "government_news",
-      "headline": "Download",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.179,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "aeee718c-abcb-42cb-8c65-31109304fb68",
-      "timestamp": "2025-12-12T05:45:44Z",
-      "source": "government_news",
-      "headline": "English",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1785,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "92c813ff-c23d-42b3-a4de-fa36b25cc638",
-      "timestamp": "Tue, 18 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Gets USD 300M ADB Aid for Economy - Rediff MoneyWiz",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1781,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Tourism & Hospitality",
-        "Foreign Employment",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "e5ba9bfc-7270-4a4b-b218-a6e589fc3682",
-      "timestamp": "Thu, 11 Dec 2025 12:23:16 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka to use World Bank funds to buy vehicles for health sector",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.178,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "95375116-7f48-48af-b445-78b34939a08b",
-      "timestamp": "Thu, 11 Dec 2025 21:00:43 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Unveiling Sri Lanka’s hidden connection to Ramayana - Tribune India",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1763,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "ded9c54c-2087-473e-afa5-d4da8a081107",
-      "timestamp": "Thu, 11 Dec 2025 17:50:55 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Third Australian university to open in Sri Lanka amid rising demand - The PIE News",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1749,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services",
-        "Construction"
-      ]
-    },
-    {
-      "id": "6f7e1dc0-9619-4d12-bd25-5146510e06e4",
-      "timestamp": "2025-12-12T05:47:08Z",
-      "source": "government_news",
-      "headline": "Procurement Guidelines and Manuals",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1737,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Processing of Commodities",
-        "Construction",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "1fa99b7e-c679-4a03-ad26-0756e64ae7e3",
-      "timestamp": "Fri, 12 Dec 2025 05:18:31 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Messi to unveil 70ft statue of himself on ‘GOAT’ tour",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1695,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "83c59fb4-ab1e-4227-b8fd-1dc7fd41b1c4",
-      "timestamp": "Mon, 12 May 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s Left in the Tariff Trap - Jacobin",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.1655,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
-        "Textiles & Apparel"
-      ]
-    },
-    {
-      "id": "317500bc-dbd2-4e72-ab48-6e55650ede1b",
-      "timestamp": "Thu, 11 Dec 2025 11:05:06 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Colombo Dockyard, construction shares push Sri Lanka stocks higher",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1491,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Construction",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "09026233-6e70-4161-9de6-e01d88982f54",
-      "timestamp": "2025-12-12T05:46:31Z",
-      "source": "government_news",
-      "headline": "Office of Comptroller General",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1481,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "34a9ce0e-459c-4da3-a44c-92a4c54bc4cb",
-      "timestamp": "2025-12-12T05:46:52Z",
-      "source": "government_news",
-      "headline": "Latest News",
-      "thematic_category": "Corporate/Company News",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1464,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Construction",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "52af514f-3752-4a03-80e7-d45a29763383",
-      "timestamp": "Thu, 11 Dec 2025 11:58:04 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka rupee weaker, bond yields down",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1384,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "88b0b06d-a62a-4041-b013-3951fd9355c5",
-      "timestamp": "Wed, 24 Sep 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s NPP Government. From System Change to Structural Compliance - Ifri",
+      "headline": "Special Parliament session to be held on December 18, speaker announces",
       "thematic_category": "Regulatory & Governance",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
       "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1342,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Construction",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "17c8d706-f1a4-4618-a2ed-a28a0374dd32",
-      "timestamp": "Fri, 14 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "United States and Sri Lanka Formalize Security Cooperation: Montana National Guard Signs MOU with Sri Lanka Armed Forces Under the State Partnership Program - U.S. Embassy in Sri Lanka (.gov)",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1336,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "4d935df9-96f2-4711-9e49-f202c51dff60",
-      "timestamp": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "An Intense Monsoon Season Is Battering Parts of Asia. Here’s What We Know. - The New York Times",
-      "thematic_category": "Extreme Weather Events",
-      "risk_score": 0.1315,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "96352faa-4c6c-4bb9-a38b-8bec83e38953",
-      "timestamp": "Thu, 11 Dec 2025 05:52:05 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s Hela Apparel says banks to recast debt on Rs3-4bn capital injection",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1233,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Textiles & Apparel"
-      ]
-    },
-    {
-      "id": "5c2e20a7-996b-488f-8767-8ace85e6d767",
-      "timestamp": "20251208T051500Z",
-      "source": "sri_lanka_news",
-      "headline": "துபாய் இலங்கை துணைத் தூதரகத்தில் உதவிப் பொருட்கள் சேகரிப்பு",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1233,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "586142dc-f4dc-4198-802b-c5bc350058db",
-      "timestamp": "Fri, 12 Dec 2025 04:13:48 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Nandana Gunathilake and Udaya Gammanpila to face CIABOC inquiry over alleged contempt",
-      "thematic_category": "Corporate/Company News",
-      "risk_score": 0.123,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "ccf83b97-3eae-4edc-ba78-bb5bca58e1e1",
-      "timestamp": "Fri, 12 Dec 2025 03:30:19 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Gambhir’s anger erupts over Arshdeep Singh’s wayward bowling",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.1119,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "33edaa12-7232-46d2-9e92-84f53550c6db",
-      "timestamp": "2025-12-12T05:45:29Z",
-      "source": "government_news",
-      "headline": "Notice to General Public on Prohibited Pyramid Schemes",
-      "thematic_category": "Corporate/Company News",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1114,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "8872dde9-beae-41b0-b64b-ba5de16140b6",
-      "timestamp": "2025-12-12T05:47:06Z",
-      "source": "government_news",
-      "headline": "Laws Regulations and Reforms",
-      "thematic_category": "Regulatory & Governance",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1114,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "bc40474c-c212-4b34-be9a-8b4a204cc66e",
-      "timestamp": "2025-12-12T05:44:56Z",
-      "source": "government_news",
-      "headline": "Revised GCE A/L Exam Dates Set for January 2026 - Ministry of Education",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1113,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "2fe23f73-231b-42fd-8a70-7cf19ade0f4c",
-      "timestamp": "Thu, 11 Dec 2025 06:41:01 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka sells Rs43bn Treasury bills; yields flat",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.109,
+      "opportunity_score": 0.1261,
       "opportunity_category": "Low Opportunity",
       "opportunity_explanation": "Minor positive signals, potential for small gains.",
       "top_affected_industries": [
@@ -3419,99 +285,48 @@
       ]
     },
     {
-      "id": "21b2e2b4-177e-4d6b-8e8f-957beb8018aa",
-      "timestamp": "2025-12-12T05:46:46Z",
-      "source": "government_news",
-      "headline": "Gazettes",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1054,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "4c71bebe-b9c6-4fdd-8ed9-d364e9f3f9af",
-      "timestamp": "Fri, 12 Dec 2025 02:47:58 GMT",
+      "id": "fab58177-ed49-4897-9d8a-3a6224f8cec8",
+      "timestamp": "Sun, 14 Dec 2025 03:56:34 +0000",
       "source": "sri_lanka_news",
-      "headline": "Tickets go live for ICC Men’s T20 World Cup 2026 - srilankacricket.lk",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1035,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "eb528998-2bd0-4915-81a7-6401c6022413",
-      "timestamp": "Wed, 10 Dec 2025 23:58:08 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Before Pointing Fingers At Canada, Sri Lanka Should Look Inward – OpEd - Eurasia Review",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.1019,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "b4f3d900-41a3-4c09-9031-e674b6275c5a",
-      "timestamp": "Mon, 16 Jun 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka has 'no room for policy errors' in economic reforms, IMF says - Reuters",
+      "headline": "Sri Lanka parliament to meet on Dec 10 on Ditwah recovery spending",
       "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.1016,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
+      "risk_score": 0.0,
+      "risk_category": "No Significant Risk",
+      "risk_explanation": "No immediate risk indicators detected.",
+      "opportunity_score": 0.1124,
+      "opportunity_category": "Low Opportunity",
+      "opportunity_explanation": "Minor positive signals, potential for small gains.",
       "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "5179c512-1471-4e28-bffc-b0161dfe3534",
-      "timestamp": "2025-12-12T05:44:54Z",
-      "source": "government_news",
-      "headline": "Cabinet Decisions",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0963,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Financial Services",
         "Tourism & Hospitality",
         "Foreign Employment"
       ]
     },
     {
-      "id": "98d93ff1-d70b-4bc6-8232-1e3580bb4307",
-      "timestamp": "Thu, 11 Dec 2025 06:29:55 GMT",
+      "id": "e9d964ae-5fb6-4c1c-b868-291cfebc6bed",
+      "timestamp": "Sun, 14 Dec 2025 02:44:21 +0000",
       "source": "sri_lanka_news",
-      "headline": "U.S. Under Secretary of State for Political Affairs Hooker’s Travel to Sri Lanka - U.S. Embassy in Sri Lanka (.gov)",
+      "headline": "Binge-watching 2025’s Christmas films: The good, the bad and the so-bad-it’s-good",
+      "thematic_category": "Market Trends",
+      "risk_score": 0.0,
+      "risk_category": "No Significant Risk",
+      "risk_explanation": "No immediate risk indicators detected.",
+      "opportunity_score": 0.0865,
+      "opportunity_category": "Low Opportunity",
+      "opportunity_explanation": "Minor positive signals, potential for small gains.",
+      "top_affected_industries": [
+        "Other"
+      ]
+    },
+    {
+      "id": "7b61a438-bbe5-46fe-92ad-1573f07a9db0",
+      "timestamp": "Thu, 10 Apr 2025 07:00:00 GMT",
+      "source": "sri_lanka_news",
+      "headline": "Sri Lanka's prime minister gives timeline on drafting new constitution - ConstitutionNet",
       "thematic_category": "Social/Political Issues",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
       "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.0958,
+      "opportunity_score": 0.065,
       "opportunity_category": "Low Opportunity",
       "opportunity_explanation": "Minor positive signals, potential for small gains.",
       "top_affected_industries": [
@@ -3519,60 +334,28 @@
       ]
     },
     {
-      "id": "fb8a40be-a74b-4ad8-b6ea-a527ec9ed794",
-      "timestamp": "Thu, 11 Dec 2025 06:35:51 GMT",
+      "id": "21483a23-8285-4cd7-b1f7-962318f5ee9d",
+      "timestamp": "Sun, 22 Sep 2024 07:00:00 GMT",
       "source": "sri_lanka_news",
-      "headline": "New report highlights rise of Hindu nationalist groups spreading anti-Muslim propaganda in Sri Lanka - madhyamamonline.com",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0912,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "a835bcf8-97f9-4b31-8a03-b71234194e90",
-      "timestamp": "Wed, 10 Dec 2025 21:04:44 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Australia’s only low-cost flights to Sri Lanka are launching next year – from $355 - Time Out Worldwide",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.0856,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "8827a4e4-6972-4704-9e80-3501cfbf01f9",
-      "timestamp": "Wed, 03 Sep 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Union government exempts Sri Lankan Tamil refugees who came before January 9, 2015 from penal provisions - The Hindu",
+      "headline": "In a political paradigm shift, Sri Lanka leans to the left - BBC",
       "thematic_category": "Social/Political Issues",
-      "risk_score": 0.0845,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
+      "risk_score": 0.0,
+      "risk_category": "No Significant Risk",
+      "risk_explanation": "No immediate risk indicators detected.",
+      "opportunity_score": 0.0524,
+      "opportunity_category": "Low Opportunity",
+      "opportunity_explanation": "Minor positive signals, potential for small gains.",
       "top_affected_industries": [
         "Foreign Employment"
       ]
     },
     {
-      "id": "f58b3dd0-abed-4f4a-bda2-8e36f201f8e8",
-      "timestamp": "Sun, 12 Oct 2025 07:00:00 GMT",
+      "id": "b7ac5344-7928-4aa7-ae1e-f999d5fbd107",
+      "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT",
       "source": "sri_lanka_news",
-      "headline": "Sri Lankan government moves to acquire Tamil-owned land in Jaffna for the navy use - Tamil Guardian",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.0815,
+      "headline": "UN Extends Evidence-Gathering Mandate for Sri Lanka War Crimes - Human Rights Watch",
+      "thematic_category": "Market Trends",
+      "risk_score": 0.0458,
       "risk_category": "Low Risk",
       "risk_explanation": "Minor negative signals, monitoring recommended.",
       "opportunity_score": 0.0,
@@ -3583,228 +366,42 @@
       ]
     },
     {
-      "id": "8ec29828-637e-4144-bb31-760d73f0f355",
-      "timestamp": "Thu, 11 Dec 2025 04:31:51 +0000",
+      "id": "7aa805ef-c204-4446-9e0a-f2d0170f1229",
+      "timestamp": "Sun, 14 Dec 2025 04:40:10 +0000",
       "source": "sri_lanka_news",
-      "headline": "Sri Lanka rupee weaker, bond yields drop",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.0811,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "f57afa0e-3abe-4c28-9621-071ebd809c46",
-      "timestamp": "Fri, 21 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lankan opposition rallies in first major protest against Dissanayake government - AP News",
-      "thematic_category": "Social/Political Issues",
-      "risk_score": 0.069,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "d204d5ae-b81c-4fa0-8daa-6259955c9d30",
-      "timestamp": "Fri, 12 Dec 2025 03:32:45 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Arjuna Mahendran, another suspect face fresh arrest warrants in money laundering probe",
-      "thematic_category": "Corporate/Company News",
-      "risk_score": 0.0647,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Financial Services",
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "8bb020f8-a3f5-41ee-9a75-62e8fefbdb50",
-      "timestamp": "2025-12-12T05:45:28Z",
-      "source": "government_news",
-      "headline": "The Central Bank of Sri Lanka keeps  the Overnight Policy Rate (OPR) unchanged",
-      "thematic_category": "Macro/Economic Policy",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.0541,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services"
-      ]
-    },
-    {
-      "id": "202f22ce-ca8d-42fb-89b9-89f89e8ac62b",
-      "timestamp": "Thu, 11 Dec 2025 11:43:30 +0000",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka to seek US$200mn from ADB for Mahaweli water security program",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0404,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "e4a626a2-7924-4723-b941-2f974fadb442",
-      "timestamp": "2025-12-12T05:46:47Z",
-      "source": "government_news",
-      "headline": "Circulars",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.0392,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "ef73d78e-1117-430b-b345-5b5e45387eb4",
-      "timestamp": "2025-12-12T05:47:11Z",
-      "source": "government_news",
-      "headline": "Disclaimer",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0245,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Financial Services",
-        "Tourism & Hospitality"
-      ]
-    },
-    {
-      "id": "1749d483-e360-4e2b-9cb9-91dab62e6b8e",
-      "timestamp": "Fri, 07 Nov 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "WADA removes Sri Lanka Anti-Doping Agency from list of non-compliant Code Signatories - World Anti Doping Agency",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.024,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "bf93651c-feb8-4acb-80ab-838907e80a34",
-      "timestamp": "Wed, 10 Dec 2025 23:38:33 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka Selected to Host the IASP 34th World Congress - International Association for Suicide Prevention - IASP",
-      "thematic_category": "Market Trends",
-      "risk_score": 0.0237,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment"
-      ]
-    },
-    {
-      "id": "20de0eed-d975-4822-9e13-b958616f1e13",
-      "timestamp": "Mon, 27 Jan 2025 08:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s Adani Controversy: Navigating Geopolitics, Transparency, and Sovereignty - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "headline": "‘No new roads will be allowed through Knuckles Reserve’- Environment Ministry",
       "thematic_category": "Regulatory & Governance",
-      "risk_score": 0.0197,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
+      "risk_score": 0.0,
+      "risk_category": "No Significant Risk",
+      "risk_explanation": "No immediate risk indicators detected.",
+      "opportunity_score": 0.036,
+      "opportunity_category": "Low Opportunity",
+      "opportunity_explanation": "Minor positive signals, potential for small gains.",
       "top_affected_industries": [
-        "Other"
-      ]
-    },
-    {
-      "id": "ed23c4ed-cbea-4ec7-923e-899ff46e2973",
-      "timestamp": "2025-12-12T05:46:56Z",
-      "source": "government_news",
-      "headline": "Press Releases",
-      "thematic_category": "Corporate/Company News",
-      "risk_score": 0.0186,
-      "risk_category": "Low Risk",
-      "risk_explanation": "Minor negative signals, monitoring recommended.",
-      "opportunity_score": 0.0,
-      "opportunity_category": "No Significant Opportunity",
-      "opportunity_explanation": "No immediate opportunity indicators detected.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Tourism & Hospitality",
         "Construction"
       ]
     },
     {
-      "id": "58592a50-07a1-4cad-826d-6a9be5464270",
-      "timestamp": "Thu, 11 Dec 2025 05:09:58 +0000",
+      "id": "bcba1da4-152e-48cb-a432-ea22ff7b9359",
+      "timestamp": "Thu, 08 May 2025 07:00:00 GMT",
       "source": "sri_lanka_news",
-      "headline": "Sri Lanka’s Cargills Bank to raise Rs2.5bn in rights issue",
+      "headline": "World Bank grants cash-strapped Sri Lanka $1-B loan - Inquirer.net",
       "thematic_category": "Corporate/Company News",
-      "risk_score": 0.0181,
+      "risk_score": 0.026,
       "risk_category": "Low Risk",
       "risk_explanation": "Minor negative signals, monitoring recommended.",
       "opportunity_score": 0.0,
       "opportunity_category": "No Significant Opportunity",
       "opportunity_explanation": "No immediate opportunity indicators detected.",
       "top_affected_industries": [
-        "Financial Services",
-        "Processing of Commodities",
         "Foreign Employment"
       ]
     },
     {
-      "id": "b9341984-a56b-462b-b5ae-808e9547c363",
-      "timestamp": "Wed, 07 May 2025 07:00:00 GMT",
-      "source": "sri_lanka_news",
-      "headline": "World Bank grants cash-strapped Sri Lanka $1 bn loan - The Economic Times",
-      "thematic_category": "Corporate/Company News",
-      "risk_score": 0.0,
-      "risk_category": "No Significant Risk",
-      "risk_explanation": "No immediate risk indicators detected.",
-      "opportunity_score": 0.0167,
-      "opportunity_category": "Low Opportunity",
-      "opportunity_explanation": "Minor positive signals, potential for small gains.",
-      "top_affected_industries": [
-        "Foreign Employment",
-        "Construction"
-      ]
-    },
-    {
-      "id": "a355d676-5380-4d26-9a27-59927f25b355",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "64ff7e59-52a5-4ba0-9810-ea2d287cab6e",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Colombo: overcast clouds. Temp 30.03°C Humidity 68%",
+      "headline": "Colombo: overcast clouds. Temp 31.14°C Humidity 62%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -3817,10 +414,10 @@
       ]
     },
     {
-      "id": "aaaa9f52-8e81-415d-b46e-f36e07b0d9dc",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "6d9c7ed6-b55a-4401-bf29-daaacfe8f70c",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Gampaha: broken clouds. Temp 28.96°C Humidity 79%",
+      "headline": "Gampaha: overcast clouds. Temp 31.12°C Humidity 54%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -3833,10 +430,10 @@
       ]
     },
     {
-      "id": "582ba31c-8be4-4a9e-a903-7d248569c90f",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "113e713f-9765-474d-8ec6-ebc131824014",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Kalutara: overcast clouds. Temp 26.77°C Humidity 80%",
+      "headline": "Kalutara: broken clouds. Temp 29.33°C Humidity 65%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -3849,10 +446,10 @@
       ]
     },
     {
-      "id": "1992d4b2-d31b-443f-9b4c-1db7271f306a",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "73981f71-2695-47f1-9b7a-eb849247a757",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Kandy: overcast clouds. Temp 27.08°C Humidity 64%",
+      "headline": "Kandy: overcast clouds. Temp 26.77°C Humidity 61%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -3865,10 +462,10 @@
       ]
     },
     {
-      "id": "10e23fae-3e0b-4700-b007-a648555eaaa9",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "090adc07-78b5-41da-890c-74b0316834b4",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Matale: broken clouds. Temp 26.51°C Humidity 62%",
+      "headline": "Matale: broken clouds. Temp 25.57°C Humidity 61%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -3881,10 +478,10 @@
       ]
     },
     {
-      "id": "aadce5c9-d07f-4c1e-87ff-4232f3878dee",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "70cbb669-8a3b-48be-a2da-21fdcda9cd32",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Nuwara Eliya: broken clouds. Temp 17.8°C Humidity 71%",
+      "headline": "Nuwara Eliya: scattered clouds. Temp 17.77°C Humidity 66%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -3897,10 +494,10 @@
       ]
     },
     {
-      "id": "4439e6f0-4372-4c2a-a63b-28846caaff56",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "fd00c7ae-f502-48af-a6fd-2fc63a100b2b",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Galle: overcast clouds. Temp 29.47°C Humidity 75%",
+      "headline": "Galle: clear sky. Temp 26.57°C Humidity 78%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -3913,10 +510,10 @@
       ]
     },
     {
-      "id": "57c30eae-9a8f-492c-b8cf-d6d01814d8b4",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "a0ddb640-7b89-4ba8-ba33-9d3616ef1f7b",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Matara: overcast clouds. Temp 29.63°C Humidity 63%",
+      "headline": "Matara: clear sky. Temp 28.29°C Humidity 70%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -3929,10 +526,10 @@
       ]
     },
     {
-      "id": "29908a56-f084-4a85-98f3-2a81835a3ed1",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "0f841d47-2585-4d98-b281-4806ef633d06",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Hambantota: broken clouds. Temp 29.19°C Humidity 79%",
+      "headline": "Hambantota: clear sky. Temp 29.12°C Humidity 65%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -3945,10 +542,10 @@
       ]
     },
     {
-      "id": "b2787cf9-49ee-49a7-b035-a12cb3aeaa0e",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "b25cef76-68df-4492-a1cf-ef76d495bac5",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Jaffna: broken clouds. Temp 25.93°C Humidity 83%",
+      "headline": "Jaffna: few clouds. Temp 26.21°C Humidity 63%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -3961,10 +558,10 @@
       ]
     },
     {
-      "id": "72cd40b5-c9a0-456e-8912-d4476cc7d8cd",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "bfc7c78d-7bc9-4d8e-8503-e6160afb5ba3",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Kilinochchi: overcast clouds. Temp 26.82°C Humidity 81%",
+      "headline": "Kilinochchi: overcast clouds. Temp 26.75°C Humidity 64%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -3977,10 +574,10 @@
       ]
     },
     {
-      "id": "7a4466a5-b2b8-4be4-a2d3-22095befe7cd",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "3ddaf6d0-832c-432b-bb63-1f6d1c939042",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Mannar: broken clouds. Temp 25.8°C Humidity 84%",
+      "headline": "Mannar: scattered clouds. Temp 26.24°C Humidity 68%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -3993,10 +590,10 @@
       ]
     },
     {
-      "id": "8f4cb3f7-6092-4a97-9f3b-cdf8619dcf17",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "f84145f3-06c8-44a9-bf64-a67058880e74",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Vavuniya: overcast clouds. Temp 26.22°C Humidity 85%",
+      "headline": "Vavuniya: scattered clouds. Temp 28.06°C Humidity 58%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -4009,10 +606,10 @@
       ]
     },
     {
-      "id": "72542f03-aed7-4201-8e3b-b97454f934be",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "2f4d2684-9008-4d53-876b-a1993c511371",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Mullaitivu: broken clouds. Temp 26.51°C Humidity 83%",
+      "headline": "Mullaitivu: scattered clouds. Temp 26.56°C Humidity 67%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -4025,10 +622,10 @@
       ]
     },
     {
-      "id": "930559a8-42f1-469b-ae0c-c20cb5e2e0cd",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "36db041c-28c7-4d66-9d18-12afcdba754d",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Batticaloa: overcast clouds. Temp 27.76°C Humidity 72%",
+      "headline": "Batticaloa: scattered clouds. Temp 26.47°C Humidity 80%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -4041,10 +638,10 @@
       ]
     },
     {
-      "id": "75eed3f9-0dd6-415b-944f-5beaed0cb385",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "23698ea4-7839-410a-acf9-591c3c6cb4fc",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Trincomalee: broken clouds. Temp 26.45°C Humidity 81%",
+      "headline": "Trincomalee: scattered clouds. Temp 27.02°C Humidity 68%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -4057,10 +654,10 @@
       ]
     },
     {
-      "id": "9fab8909-8bcf-4607-8ecc-54b5458e73f2",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "89a001ca-89f6-4db2-bd66-099fba0e0681",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Ampara: overcast clouds. Temp 28.5°C Humidity 70%",
+      "headline": "Ampara: few clouds. Temp 28.18°C Humidity 70%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -4073,10 +670,10 @@
       ]
     },
     {
-      "id": "f7ba4aa8-f8b4-4e84-9e69-eb5b81b5d44c",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "5b62499f-1eae-4117-ab17-a2b4efd4a811",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Badulla: overcast clouds. Temp 25.57°C Humidity 71%",
+      "headline": "Badulla: scattered clouds. Temp 24.73°C Humidity 73%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -4089,10 +686,10 @@
       ]
     },
     {
-      "id": "f57881c9-ffdb-4e1b-a090-4a58f60c6e7a",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "1fc61356-26dc-4e22-8e13-bb3c66f09ee3",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Monaragala: overcast clouds. Temp 28.01°C Humidity 67%",
+      "headline": "Monaragala: clear sky. Temp 28.57°C Humidity 63%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -4105,10 +702,10 @@
       ]
     },
     {
-      "id": "4a2c92b5-9d73-4eeb-8ee8-8416ed62fb2a",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "752cbe4e-5463-4b86-ac84-7615555147bb",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Kurunegala: broken clouds. Temp 30.75°C Humidity 57%",
+      "headline": "Kurunegala: scattered clouds. Temp 30.06°C Humidity 54%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -4121,10 +718,10 @@
       ]
     },
     {
-      "id": "536e9cbe-5995-41c6-a589-d7b8451ca543",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "3cf4dab3-7c35-4784-be24-774cdf8f08e8",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Puttalam: overcast clouds. Temp 27.69°C Humidity 75%",
+      "headline": "Puttalam: scattered clouds. Temp 27.81°C Humidity 66%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -4137,10 +734,10 @@
       ]
     },
     {
-      "id": "535700b7-b599-4819-9c96-8881e51b57f5",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "db275a27-3f69-49af-b180-21e41ad729c0",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Anuradhapura: overcast clouds. Temp 27.19°C Humidity 79%",
+      "headline": "Anuradhapura: scattered clouds. Temp 27.53°C Humidity 67%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -4153,10 +750,10 @@
       ]
     },
     {
-      "id": "0394e23b-cf4a-4857-8148-ff24cd8ab39f",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "f8f17754-c7c2-4fcb-9773-cd3b237800e1",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Polonnaruwa: broken clouds. Temp 27.85°C Humidity 75%",
+      "headline": "Polonnaruwa: scattered clouds. Temp 27.02°C Humidity 76%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -4169,10 +766,10 @@
       ]
     },
     {
-      "id": "2466f6e3-a97b-499b-9037-01f0e3f9d54d",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "6afed34c-1654-4427-b126-b12d2a566e9e",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Ratnapura: broken clouds. Temp 30.08°C Humidity 69%",
+      "headline": "Ratnapura: scattered clouds. Temp 31.6°C Humidity 59%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
@@ -4185,10 +782,10 @@
       ]
     },
     {
-      "id": "13d71a31-c64f-40a4-9d56-6717c4800668",
-      "timestamp": "2025-12-12T05:47:25Z",
+      "id": "68ce0d23-d7fa-4cd1-9d64-e33ce0f274e1",
+      "timestamp": "2025-12-14T06:22:14Z",
       "source": "weather",
-      "headline": "Kegalle: broken clouds. Temp 31.09°C Humidity 53%",
+      "headline": "Kegalle: overcast clouds. Temp 29.89°C Humidity 53%",
       "thematic_category": "Weather",
       "risk_score": 0.0,
       "risk_category": "No Significant Risk",
